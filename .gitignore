@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+*.log
+
+# Storage & Local Databases (preserve sample_data)
+backend/storage/insightops.db
+backend/storage/datasets/*.csv
+backend/storage/datasets/*.xlsx
+backend/storage/datasets/*.xls
+backend/storage/reports/*.pdf
+# Environment variables
+.env
+*.env
+backend/.env
+**/.env
+!.env.example
+!**/.env.example
+
+# Node & Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/package-lock.json
+
+# Portable tools download
+.tools/
+.DS_Store
+Thumbs.db

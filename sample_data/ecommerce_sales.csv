@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price,Revenue,Discount_Rate,Profit,Customer_Segment
+ORD-2025001,2025-11-24,Smart Laptop Pro,Technology,West,1,1152.3,921.84,0.2,23.05,Consumer
+ORD-2025002,2025-10-30,Heavy Duty Storage Rack,Industrial,West,1,282.86,226.29,0.2,5.66,Consumer
+ORD-2025003,2025-11-29,Digital Caliper Stainless,Industrial,West,1,41.22,35.04,0.15,9.17,Corporate
+ORD-2025004,2025-05-23,Ergonomic Office Chair,Office Supplies,West,2,305.63,550.13,0.1,90.47,Small Business
+ORD-2025005,2025-05-16,USB-C Multiport Dock,Technology,West,2,75.39,120.62,0.2,18.7,Corporate
+ORD-2025006,2025-10-23,Gel Pens Pack (24ct),Office Supplies,West,1,17.62,17.62,0.0,7.05,Consumer
+ORD-2025007,2025-02-21,Laser Distance Meter,Industrial,West,2,87.39,157.3,0.1,30.59,Small Business
+ORD-2025008,2025-12-16,Ergonomic Vertical Mouse,Technology,East,2,43.96,70.34,0.2,15.83,Consumer
+ORD-2025009,2025-12-17,Executive Leather Chair,Furniture,South,2,430.48,688.77,0.2,-3.44,Small Business
+ORD-2025010,2025-06-11,Gel Pens Pack (24ct),Office Supplies,West,5,17.93,80.69,0.1,27.79,Consumer
+ORD-2025011,2025-05-07,Filing Cabinet 3-Drawer,Furniture,West,1,136.47,109.18,0.2,6.01,Corporate
+ORD-2025012,2025-02-16,Smart Laptop Pro,Technology,South,2,1147.62,1950.95,0.15,120.5,Small Business
+ORD-2025013,2025-08-28,Filing Cabinet 3-Drawer,Furniture,East,5,133.26,599.67,0.1,74.63,Consumer
+ORD-2025014,2025-05-31,Digital Caliper Stainless,,West,3,40.88,98.11,0.2,22.07,Consumer
+ORD-2025015,2025-09-17,USB-C Multiport Dock,Technology,East,1,74.05,70.35,0.05,17.85,Small Business
+ORD-2025016,2025-09-29,Ergonomic Vertical Mouse,Technology,East,2,47.18,84.92,0.1,25.0,Consumer
+ORD-2025017,2025-01-30,Dry Erase Whiteboard 36x24,Office Supplies,West,2,52.63,84.21,0.2,10.53,Consumer
+ORD-2025018,2025-03-07,Digital Caliper Stainless,Industrial,East,8,41.72,317.07,0.05,102.63,Small Business
+ORD-2025019,2025-06-09,Laser Distance Meter,Industrial,West,1,86.08,86.08,0.0,21.52,Small Business
+ORD-2025020,2025-10-11,Dry Erase Whiteboard 36x24,Office Supplies,West,3,52.57,157.71,0.0,39.43,Consumer
+ORD-2025021,2025-06-19,Ergonomic Vertical Mouse,Technology,West,2,45.18,72.29,0.2,16.27,Small Business
+ORD-2025022,2025-08-31,Heavy-Duty Paper Shredder,Office Supplies,West,1,84.41,71.75,0.15,4.43,Corporate
+ORD-2025023,2025-08-28,USB-C Multiport Dock,Technology,West,3,77.25,231.75,0.0,64.89,Consumer
+ORD-2025024,2025-04-09,Dry Erase Whiteboard 36x24,Office Supplies,West,1,54.79,54.79,0.0,13.7,Corporate
+ORD-2025025,2025-10-09,Smart Laptop Pro,Technology,North,4,1159.96,3943.86,0.15,243.59,Corporate
+ORD-2025026,2025-04-20,Heavy Duty Storage Rack,Industrial,West,10,273.43,2324.16,0.15,143.55,Corporate
+ORD-2025027,2025-08-05,Digital Caliper Stainless,Industrial,West,8,40.32,258.05,0.2,58.06,Consumer
+ORD-2025028,2025-06-10,Smart Laptop Pro,Technology,West,1,1255.29,1255.29,0.0,188.29,Consumer
+ORD-2025029,2025-02-05,USB-C Multiport Dock,Technology,South,2,75.59,151.18,0.0,42.33,Small Business
+ORD-2025030,2025-02-11,Laser Distance Meter,Industrial,West,3,87.65,223.51,0.15,36.16,Consumer
+ORD-2025031,2025-12-10,Adjustable LED Floor Lamp,Furniture,East,1,65.79,52.63,0.2,9.21,Consumer
+ORD-2025032,2025-02-07,Dry Erase Whiteboard 36x24,Office Supplies,West,1,52.63,50.0,0.05,11.18,Corporate
+ORD-2025033,2025-05-26,Heavy-Duty Paper Shredder,Office Supplies,East,3,80.82,193.97,0.2,4.85,Corporate
+ORD-2025034,2025-12-06,Wireless Noise-Cancelling Headphones,Technology,West,1,180.96,162.86,0.1,31.67,Corporate
+ORD-2025035,2025-11-06,Gel Pens Pack (24ct),Office Supplies,West,3,17.58,44.83,0.15,13.98,Corporate
+ORD-2025036,2025-01-27,USB-C Multiport Dock,Technology,East,1,72.23,65.01,0.1,14.59,Consumer
+ORD-2025037,2025-08-15,Heavy Duty Storage Rack,Industrial,West,5,291.31,1165.24,0.2,29.13,Consumer
+ORD-2025038,2025-07-09,Heavy-Duty Paper Shredder,Office Supplies,West,2,88.68,177.36,0.0,26.6,Corporate
+ORD-2025039,2025-04-18,Gel Pens Pack (24ct),Office Supplies,West,2,18.67,29.87,0.2,8.21,Small Business
+ORD-2025040,2025-03-21,Ergonomic Office Chair,Office Supplies,East,3,304.8,777.24,0.15,102.41,Small Business
+ORD-2025041,2025-05-08,Solid Oak Conference Table,Furniture,West,1,847.51,805.13,0.05,59.33,Corporate
+ORD-2025042,2025-06-29,Solid Oak Conference Table,Furniture,West,1,835.4,835.4,0.0,83.54,Corporate
+ORD-2025043,2025-06-29,Laser Distance Meter,Industrial,West,8,87.11,627.19,0.1,121.95,Consumer
+ORD-2025044,2025-02-25,Laser Distance Meter,Industrial,East,1,93.6,88.92,0.05,19.89,Corporate
+ORD-2025045,2025-01-23,Heavy Duty Storage Rack,Industrial,West,1,284.6,256.14,0.1,24.19,Small Business
+ORD-2025046,2025-06-10,USB-C Multiport Dock,Technology,East,1,76.48,61.18,0.2,9.48,Consumer
+ORD-2025047,2025-04-09,Industrial Grade Extension Cord,Industrial,South,2,33.25,59.85,0.1,14.63,Consumer
+ORD-2025048,2025-08-09,Adjustable LED Floor Lamp,Furniture,East,2,67.61,128.46,0.05,35.16,Small Business
+ORD-2025049,2025-02-13,Filing Cabinet 3-Drawer,Furniture,West,8,126.55,911.16,0.1,113.39,Consumer
+ORD-2025050,2025-04-12,Standing Desk Converter,Office Supplies,West,2,227.69,455.38,0.0,81.97,Corporate
+ORD-2025051,2025-08-01,Gel Pens Pack (24ct),Office Supplies,East,3,17.11,51.33,0.0,20.53,Corporate
+ORD-2025052,2025-04-23,Gel Pens Pack (24ct),Office Supplies,West,1,18.63,15.84,0.15,4.94,
+ORD-2025053,2025-08-26,Adjustable LED Floor Lamp,Furniture,West,5,66.58,282.96,0.15,59.92,Corporate
+ORD-2025054,2025-05-13,Gel Pens Pack (24ct),Office Supplies,East,3,17.59,52.77,0.0,21.11,Small Business
+ORD-2025055,2025-05-27,Thermal Label Printer,Office Supplies,West,2,134.94,256.39,0.05,44.53,Corporate
+ORD-2025056,2025-12-22,Gel Pens Pack (24ct),Office Supplies,West,2,18.08,30.74,0.15,9.58,Consumer
+ORD-2025057,2025-04-16,Industrial Grade Extension Cord,Industrial,North,2,33.27,59.89,0.1,14.64,Corporate
+ORD-2025058,2025-07-19,Digital Caliper Stainless,Industrial,West,2,38.12,68.62,0.1,20.2,Small Business
+ORD-2025059,2025-12-14,Digital Caliper Stainless,Industrial,West,2,41.63,66.61,0.2,14.99,Small Business
+ORD-2025060,2025-12-06,Smart Laptop Pro,Technology,West,2,1146.03,1948.25,0.15,120.33,Corporate
+ORD-2025061,2025-04-19,Laser Distance Meter,Industrial,East,3,92.99,251.07,0.1,48.82,Consumer
+ORD-2025062,2025-08-29,USB-C Multiport Dock,Technology,North,3,77.11,231.33,0.0,64.77,Consumer
+ORD-2025063,2025-05-07,Standing Desk Converter,Office Supplies,West,2,211.52,401.89,0.05,61.76,Corporate
+ORD-2025064,2025-12-25,Modular Bookshelf,Furniture,South,3,195.28,556.55,0.05,96.66,Corporate
+ORD-2025065,2025-02-25,Ultra HD 4K Monitor,Technology,West,3,335.16,955.21,0.05,165.91,Consumer
+ORD-2025066,2025-12-23,Filing Cabinet 3-Drawer,Furniture,North,1,130.43,117.39,0.1,14.61,Consumer
+ORD-2025067,2025-09-17,Executive Leather Chair,Furniture,East,8,456.1,3101.48,0.15,98.52,Small Business
+ORD-2025068,2025-03-20,Digital Caliper Stainless,Industrial,East,3,39.86,95.66,0.2,21.52,Corporate
+ORD-2025069,2025-06-15,Standing Desk Converter,Office Supplies,East,2,222.43,378.13,0.15,34.7,Corporate
+ORD-2025070,2025-01-15,Laser Distance Meter,Industrial,South,1,88.02,70.42,0.2,8.8,Small Business
+ORD-2025071,2025-05-22,Ergonomic Vertical Mouse,Technology,West,3,44.95,128.11,0.05,41.47,Small Business
+ORD-2025072,2025-09-01,Industrial Grade Extension Cord,Industrial,West,1,35.67,32.1,0.1,7.85,Small Business
+ORD-2025073,2025-10-25,Adjustable LED Floor Lamp,Furniture,East,1,66.32,59.69,0.1,14.59,Corporate
+ORD-2025074,2025-05-09,Standing Desk Converter,Office Supplies,West,3,229.92,655.27,0.05,100.7,Consumer
+ORD-2025075,2025-04-21,Laser Distance Meter,Industrial,East,1,88.75,79.88,0.1,15.53,Consumer
+ORD-2025076,2025-12-29,Thermal Label Printer,Office Supplies,North,3,134.77,343.66,0.15,38.41,Consumer
+ORD-2025077,2025-01-07,Adjustable LED Floor Lamp,Furniture,East,1,67.87,57.69,0.15,12.22,Consumer
+ORD-2025078,2025-02-03,Industrial Grade Extension Cord,Industrial,North,1,36.09,32.48,0.1,7.94,Consumer
+ORD-2025079,2025-05-08,Ergonomic Vertical Mouse,Technology,West,1,45.1,38.34,0.15,10.04,Corporate
+ORD-2025080,2025-06-02,Laser Distance Meter,Industrial,North,5,87.37,415.01,0.05,92.83,Corporate
+ORD-2025081,2025-12-05,Wireless Noise-Cancelling Headphones,Technology,West,1,171.05,145.39,0.15,23.52,Small Business
+ORD-2025082,2025-11-01,Laser Distance Meter,Industrial,West,3,91.83,234.17,0.15,37.88,Consumer
+ORD-2025083,2025-12-18,Thermal Label Printer,Office Supplies,South,3,145.72,415.3,0.05,72.13,Consumer
+ORD-2025084,2025-01-31,Thermal Label Printer,Office Supplies,East,1,138.64,124.78,0.1,18.02,Small Business
+ORD-2025085,2025-10-04,Industrial Grade Extension Cord,Industrial,North,3,35.36,106.08,0.0,31.82,Consumer
+ORD-2025086,2025-04-28,USB-C Multiport Dock,Technology,East,1,75.14,63.87,0.15,12.25,Corporate
+ORD-2025087,2025-04-03,Industrial Grade Extension Cord,Industrial,North,1,33.62,31.94,0.05,8.74,Corporate
+ORD-2025088,2025-07-30,Laser Distance Meter,,West,2,88.33,158.99,0.1,30.91,Consumer
+ORD-2025089,2025-07-26,USB-C Multiport Dock,Technology,East,2,76.92,130.76,0.15,25.07,Consumer
+ORD-2025090,2025-04-15,Filing Cabinet 3-Drawer,Furniture,South,3,125.08,300.19,0.2,16.51,Consumer
+ORD-2025091,2025-12-30,Thermal Label Printer,Office Supplies,East,10,145.78,1239.13,0.15,138.49,Consumer
+ORD-2025092,2025-11-28,Heavy-Duty Paper Shredder,Office Supplies,East,4,89.08,338.5,0.05,41.87,Corporate
+ORD-2025093,2025-10-10,Heavy-Duty Paper Shredder,Office Supplies,South,4,88.09,317.12,0.1,29.95,Corporate
+ORD-2025094,2025-06-24,Executive Leather Chair,Furniture,East,2,457.2,868.68,0.05,81.38,Corporate
+ORD-2025095,2025-10-03,Laser Distance Meter,Industrial,East,2,88.4,167.96,0.05,37.57,Small Business
+ORD-2025096,2025-05-03,Digital Caliper Stainless,Industrial,West,3,40.82,104.09,0.15,27.25,Corporate
+ORD-2025097,2025-12-06,Heavy-Duty Paper Shredder,Office Supplies,West,8,83.57,668.56,0.0,100.28,Corporate
+ORD-2025098,2025-02-21,Heavy Duty Storage Rack,Industrial,South,1,279.15,251.23,0.1,23.73,Corporate
+ORD-2025099,2025-11-16,Heavy Duty Storage Rack,Industrial,East,2,274.87,467.28,0.15,28.86,Small Business
+ORD-2025100,2025-01-19,Wireless Noise-Cancelling Headphones,Technology,East,2,172.77,345.54,0.0,86.39,Corporate
+ORD-2025101,2025-03-27,Executive Leather Chair,Furniture,West,1,443.63,377.09,0.15,11.98,Consumer
+ORD-2025102,2025-05-06,Digital Caliper Stainless,Industrial,West,3,39.53,112.66,0.05,36.47,Corporate
+ORD-2025103,2025-10-26,Ergonomic Office Chair,Office Supplies,West,3,322.37,822.04,0.15,108.32,Corporate
+ORD-2025104,2025-12-13,Standing Desk Converter,Office Supplies,West,1,230.16,207.14,0.1,25.78,Corporate
+ORD-2025105,2025-06-04,Heavy-Duty Paper Shredder,Office Supplies,West,2,83.8,150.84,0.1,14.25,Small Business
+ORD-2025106,2025-06-01,USB-C Multiport Dock,Technology,West,2,76.39,152.78,0.0,42.78,Small Business
+ORD-2025107,2025-09-12,Solid Oak Conference Table,Furniture,West,1,828.8,787.36,0.05,58.02,Small Business
+ORD-2025108,2025-02-19,Ultra HD 4K Monitor,Technology,West,2,337.1,606.78,0.1,87.65,Corporate
+ORD-2025109,2025-08-01,Ergonomic Office Chair,Office Supplies,South,2,310.06,558.11,0.1,91.78,Consumer
+ORD-2025110,2025-05-12,Laser Distance Meter,Industrial,East,1,92.29,87.68,0.05,19.61,Small Business
+ORD-2025111,2025-12-12,Laser Distance Meter,Industrial,East,2,89.59,161.26,0.1,31.36,Small Business
+ORD-2025112,2025-07-15,Executive Leather Chair,Furniture,South,5,442.26,1769.04,0.2,-8.85,Consumer
+ORD-2025113,2025-11-28,USB-C Multiport Dock,Technology,West,2,72.3,144.6,0.0,40.49,Corporate
+ORD-2025114,2025-09-10,Smart Laptop Pro,Technology,East,2,1220.46,1952.74,0.2,48.82,Corporate
+ORD-2025115,2025-10-28,Heavy-Duty Paper Shredder,Office Supplies,North,5,83.13,374.08,0.1,35.33,Consumer
+ORD-2025116,2025-08-16,Digital Caliper Stainless,Industrial,West,3,40.18,108.49,0.1,31.94,Consumer
+ORD-2025117,2025-07-23,Solid Oak Conference Table,Furniture,North,1,825.53,660.42,0.2,-16.51,Consumer
+ORD-2025118,2025-01-26,Solid Oak Conference Table,Furniture,East,4,854.61,2734.75,0.2,-68.37,Consumer
+ORD-2025119,2025-04-30,Solid Oak Conference Table,Furniture,West,10,891.44,7131.52,0.2,-178.29,Corporate
+ORD-2025120,2025-03-31,USB-C Multiport Dock,Technology,West,2,77.16,123.46,0.2,19.14,Corporate
+ORD-2025121,2025-01-09,Thermal Label Printer,Office Supplies,West,2,134.59,269.18,0.0,53.84,Corporate
+ORD-2025122,2025-08-18,Filing Cabinet 3-Drawer,Furniture,East,3,132.95,319.08,0.2,17.55,Corporate
+ORD-2025123,2025-08-23,Smart Laptop Pro,Technology,West,1,1225.49,1041.67,0.15,64.34,Consumer
+ORD-2025124,2025-02-11,Filing Cabinet 3-Drawer,Furniture,West,1,131.73,105.38,0.2,5.8,Small Business
+ORD-2025125,2025-06-16,Laser Distance Meter,Industrial,West,4,86.53,276.9,0.2,34.61,Small Business
+ORD-2025126,2025-04-21,Industrial Grade Extension Cord,Industrial,South,2,35.8,64.44,0.1,15.75,Corporate
+ORD-2025127,2025-06-10,Modular Bookshelf,Furniture,South,1,182.12,154.8,0.15,17.3,Consumer
+ORD-2025128,2025-07-10,Dry Erase Whiteboard 36x24,Office Supplies,North,1,52.92,47.63,0.1,9.26,Small Business
+ORD-2025129,2025-08-05,Ultra HD 4K Monitor,Technology,West,2,339.95,577.91,0.15,64.59,Consumer
+ORD-2025130,2025-02-25,Filing Cabinet 3-Drawer,Furniture,West,1,126.44,107.47,0.15,9.86,Small Business
+ORD-2025131,2025-11-15,Ergonomic Vertical Mouse,Technology,West,1,46.18,41.56,0.1,12.24,Corporate
+ORD-2025132,2025-01-04,Ergonomic Office Chair,Office Supplies,West,3,324.63,973.89,0.0,214.26,Small Business
+ORD-2025133,2025-09-29,Heavy-Duty Paper Shredder,Office Supplies,East,1,83.51,66.81,0.2,1.67,Small Business
+ORD-2025134,2025-02-13,Wireless Noise-Cancelling Headphones,Technology,East,1,178.98,152.13,0.15,24.61,Corporate
+ORD-2025135,2025-11-07,Industrial Grade Extension Cord,Industrial,West,2,34.46,68.92,0.0,20.68,Corporate
+ORD-2025136,2025-12-14,Laser Distance Meter,Industrial,West,10,85.99,816.9,0.05,182.73,Corporate
+ORD-2025137,2025-04-19,Thermal Label Printer,Office Supplies,West,1,143.46,136.29,0.05,23.67,Consumer
+ORD-2025138,2025-07-14,Dry Erase Whiteboard 36x24,Office Supplies,West,4,52.48,209.92,0.0,52.48,Corporate
+ORD-2025139,2025-02-09,Filing Cabinet 3-Drawer,Furniture,West,2,125.0,250.0,0.0,45.0,Corporate
+ORD-2025140,2025-03-29,Laser Distance Meter,Industrial,East,2,89.1,178.2,0.0,44.55,Corporate
+ORD-2025141,2025-06-08,Solid Oak Conference Table,Furniture,East,3,852.6,2429.91,0.05,179.05,Corporate
+ORD-2025142,2025-06-29,Ergonomic Office Chair,Office Supplies,West,1,313.17,313.17,0.0,68.9,Consumer
+ORD-2025143,2025-11-18,Industrial Grade Extension Cord,Industrial,West,3,36.7,99.09,0.1,24.22,Small Business
+ORD-2025144,2025-06-11,Heavy-Duty Paper Shredder,Office Supplies,North,4,85.78,308.81,0.1,29.17,Small Business
+ORD-2025145,2025-02-07,Adjustable LED Floor Lamp,Furniture,West,2,63.62,127.24,0.0,38.17,Small Business
+ORD-2025146,2025-11-01,Industrial Grade Extension Cord,Industrial,North,3,34.38,87.67,0.15,18.57,Small Business
+ORD-2025147,2025-03-19,Mechanical Gaming Keyboard,Technology,North,10,91.05,864.97,0.05,236.73,Consumer
+ORD-2025148,2025-05-07,Industrial Grade Extension Cord,Industrial,West,5,34.61,155.75,0.1,38.07,Small Business
+ORD-2025149,2025-11-03,USB-C Multiport Dock,Technology,West,1,76.34,68.71,0.1,15.42,Corporate
+ORD-2025150,2025-12-03,Thermal Label Printer,Office Supplies,East,1,146.55,124.57,0.15,13.92,Consumer
+ORD-2025151,2025-11-01,Ultra HD 4K Monitor,Technology,West,1,357.1,285.68,0.2,21.43,Consumer
+ORD-2025152,2025-11-27,Laser Distance Meter,Industrial,West,1,87.43,74.32,0.15,12.02,Consumer
+ORD-2025153,2025-04-26,Ergonomic Office Chair,Office Supplies,West,4,310.24,992.77,0.2,94.31,Small Business
+ORD-2025154,2025-09-27,USB-C Multiport Dock,Technology,East,2,72.41,137.58,0.05,34.9,Small Business
+ORD-2025155,2025-11-16,Gel Pens Pack (24ct),Office Supplies,West,2,18.4,31.28,0.15,9.75,Small Business
+ORD-2025156,2025-05-26,Digital Caliper Stainless,Industrial,West,4,39.88,151.54,0.05,49.05,Corporate
+ORD-2025157,2025-12-14,Industrial Grade Extension Cord,Industrial,East,2,33.82,64.26,0.05,17.59,Small Business
+ORD-2025158,2025-03-12,Executive Leather Chair,Furniture,West,1,465.57,465.57,0.0,55.87,Corporate
+ORD-2025159,2025-02-12,Thermal Label Printer,Office Supplies,East,2,146.25,277.88,0.05,48.26,Corporate
+ORD-2025160,2025-06-28,Mechanical Gaming Keyboard,Technology,West,2,93.92,187.84,0.0,56.35,Corporate
+ORD-2025161,2025-04-25,Ultra HD 4K Monitor,Technology,North,4,337.32,1214.35,0.1,175.41,Corporate
+ORD-2025162,2025-12-23,Gel Pens Pack (24ct),Office Supplies,East,1,17.56,16.68,0.05,6.23,Small Business
+ORD-2025163,2025-11-08,Heavy Duty Storage Rack,Industrial,West,1,272.68,218.14,0.2,5.45,Corporate
+ORD-2025164,2025-02-02,Mechanical Gaming Keyboard,Technology,North,3,93.02,279.06,0.0,83.72,Small Business
+ORD-2025165,2025-06-30,Dry Erase Whiteboard 36x24,Office Supplies,West,3,55.13,148.85,0.1,28.94,Consumer
+ORD-2025166,2025-09-27,Mechanical Gaming Keyboard,Technology,West,2,93.8,187.6,0.0,56.28,Corporate
+ORD-2025167,2025-02-04,Solid Oak Conference Table,Furniture,North,1,811.27,649.02,0.2,-16.23,Corporate
+ORD-2025168,2025-11-26,Gel Pens Pack (24ct),Office Supplies,West,1,17.34,14.74,0.15,4.6,Consumer
+ORD-2025169,2025-05-31,Standing Desk Converter,Office Supplies,South,1,217.76,174.21,0.2,9.58,Corporate
+ORD-2025170,2025-05-10,USB-C Multiport Dock,Technology,West,4,71.61,257.8,0.1,57.86,Corporate
+ORD-2025171,2025-03-05,Adjustable LED Floor Lamp,Furniture,West,2,68.08,115.74,0.15,24.51,Small Business
+ORD-2025172,2025-09-12,Filing Cabinet 3-Drawer,Furniture,East,1,131.33,124.76,0.05,19.17,Small Business
+ORD-2025173,2025-05-31,Executive Leather Chair,Furniture,West,1,447.57,380.43,0.15,12.08,Consumer
+ORD-2025174,2025-12-20,Laser Distance Meter,Industrial,West,4,88.67,301.48,0.15,48.77,Corporate
+ORD-2025175,2025-11-24,Smart Laptop Pro,Technology,West,4,1221.53,4886.12,0.0,732.92,Consumer
+ORD-2025176,2025-11-08,Heavy Duty Storage Rack,Industrial,West,3,276.26,704.46,0.15,43.51,Small Business
+ORD-2025177,2025-01-17,Gel Pens Pack (24ct),Office Supplies,West,3,18.13,43.51,0.2,11.96,Corporate
+ORD-2025178,2025-07-23,Modular Bookshelf,Furniture,East,1,190.34,152.27,0.2,11.42,Consumer
+ORD-2025179,2025-05-15,Adjustable LED Floor Lamp,Furniture,East,5,64.94,324.7,0.0,97.41,Consumer
+ORD-2025180,2025-02-07,Digital Caliper Stainless,Industrial,West,8,41.95,302.04,0.1,88.93,Small Business
+ORD-2025181,2025-02-03,Modular Bookshelf,Furniture,South,3,195.58,469.39,0.2,35.2,Consumer
+ORD-2025182,2025-03-04,Ergonomic Office Chair,Office Supplies,East,2,305.94,489.5,0.2,46.5,Consumer
+ORD-2025183,2025-11-10,Smart Laptop Pro,Technology,West,3,1197.44,3053.47,0.15,188.6,Corporate
+ORD-2025184,2025-10-22,Wireless Noise-Cancelling Headphones,Technology,East,3,177.2,425.28,0.2,53.16,Small Business
+ORD-2025185,2025-10-28,Ergonomic Office Chair,Office Supplies,West,4,310.56,1118.02,0.1,183.85,Consumer
+ORD-2025186,2025-03-24,Solid Oak Conference Table,Furniture,East,1,814.2,773.49,0.05,56.99,Small Business
+ORD-2025187,2025-10-10,Solid Oak Conference Table,Furniture,East,3,857.8,2058.72,0.2,-51.47,Consumer
+ORD-2025188,2025-03-29,Filing Cabinet 3-Drawer,Furniture,East,1,131.84,105.47,0.2,5.8,Corporate
+ORD-2025189,2025-11-30,Dry Erase Whiteboard 36x24,Office Supplies,East,5,55.25,248.62,0.1,48.34,Corporate
+ORD-2025190,2025-05-06,Laser Distance Meter,Industrial,West,1,89.46,76.04,0.15,12.3,Corporate
+ORD-2025191,2025-04-15,Filing Cabinet 3-Drawer,Furniture,West,3,133.04,359.21,0.1,44.7,Corporate
+ORD-2025192,2025-03-08,Filing Cabinet 3-Drawer,Furniture,West,2,126.98,241.26,0.05,37.08,Consumer
+ORD-2025193,2025-02-19,Ultra HD 4K Monitor,Technology,West,8,364.08,2621.38,0.1,378.64,Small Business
+ORD-2025194,2025-06-10,Ergonomic Office Chair,Office Supplies,West,4,309.92,1239.68,0.0,272.73,Corporate
+ORD-2025195,2025-09-16,Digital Caliper Stainless,Industrial,East,1,40.39,34.33,0.15,8.99,Corporate
+ORD-2025196,2025-10-02,Smart Laptop Pro,Technology,West,1,1183.89,1006.31,0.15,62.15,Corporate
+ORD-2025197,2025-01-24,Heavy Duty Storage Rack,Industrial,West,1,276.82,235.3,0.15,14.53,Small Business
+ORD-2025198,2025-05-24,Wireless Noise-Cancelling Headphones,Technology,West,4,177.1,637.56,0.1,123.97,Consumer
+ORD-2025199,2025-04-12,Heavy Duty Storage Rack,Industrial,West,3,288.51,692.42,0.2,17.31,Corporate
+ORD-2025200,2025-03-18,Thermal Label Printer,Office Supplies,West,10,143.35,1290.15,0.1,186.36,Small Business
+ORD-2025201,2025-06-22,Laser Distance Meter,Industrial,West,3,94.32,226.37,0.2,28.3,Corporate
+ORD-2025202,2025-12-19,Ergonomic Vertical Mouse,Technology,West,3,47.12,113.09,0.2,25.45,Small Business
+ORD-2025203,2025-04-27,Ergonomic Vertical Mouse,Technology,West,3,45.54,116.13,0.15,30.4,Consumer
+ORD-2025204,2025-12-15,Standing Desk Converter,Office Supplies,West,2,218.21,370.96,0.15,34.04,Small Business
+ORD-2025205,2025-04-15,Industrial Grade Extension Cord,Industrial,North,2,36.74,62.46,0.15,13.23,Small Business
+ORD-2025206,2025-07-12,Solid Oak Conference Table,Furniture,West,2,873.12,1571.62,0.1,69.85,Small Business
+ORD-2025207,2025-09-05,Ergonomic Office Chair,Office Supplies,East,8,303.73,2186.86,0.1,359.62,Small Business
+ORD-2025208,2025-04-17,Laser Distance Meter,Industrial,West,5,92.66,416.97,0.1,81.08,Corporate
+ORD-2025209,2025-03-04,Industrial Grade Extension Cord,Industrial,East,1,34.26,34.26,0.0,10.28,Corporate
+ORD-2025210,2025-08-15,Adjustable LED Floor Lamp,Furniture,West,2,67.81,122.06,0.1,29.84,Consumer
+ORD-2025211,2025-02-25,Ergonomic Office Chair,Office Supplies,North,3,296.13,755.13,0.15,99.5,Corporate
+ORD-2025212,2025-08-30,USB-C Multiport Dock,Technology,West,2,78.22,132.97,0.15,25.5,Small Business
+ORD-2025213,2025-09-01,Digital Caliper Stainless,Industrial,West,3,41.63,124.89,0.0,43.71,Small Business
+ORD-2025214,2025-10-21,Dry Erase Whiteboard 36x24,Office Supplies,East,5,53.22,266.1,0.0,66.53,Corporate
+ORD-2025215,2025-09-11,Gel Pens Pack (24ct),Office Supplies,East,2,17.29,31.12,0.1,10.72,Corporate
+ORD-2025216,2025-08-21,Digital Caliper Stainless,Industrial,West,4,39.32,133.69,0.15,35.0,Small Business
+ORD-2025217,2025-05-12,Standing Desk Converter,Office Supplies,East,3,212.86,542.79,0.15,49.81,Corporate
+ORD-2025218,2025-09-21,Executive Leather Chair,Furniture,East,1,442.06,419.96,0.05,39.34,Consumer
+ORD-2025219,2025-05-14,Digital Caliper Stainless,Industrial,West,1,40.89,40.89,0.0,14.31,Corporate
+ORD-2025220,2025-12-01,Solid Oak Conference Table,Furniture,North,1,865.82,779.24,0.1,34.63,Small Business
+ORD-2025221,2025-03-02,Modular Bookshelf,Furniture,West,1,183.41,146.73,0.2,11.0,Corporate
+ORD-2025222,2025-08-01,Digital Caliper Stainless,Industrial,South,4,40.1,128.32,0.2,28.87,Small Business
+ORD-2025223,2025-07-05,Ergonomic Vertical Mouse,Technology,West,2,45.02,72.03,0.2,16.21,Small Business
+ORD-2025224,2025-03-18,Thermal Label Printer,Office Supplies,West,1,141.16,141.16,0.0,28.23,Small Business
+ORD-2025225,2025-08-17,Mechanical Gaming Keyboard,Technology,South,1,94.64,85.18,0.1,20.82,Small Business
+ORD-2025226,2025-01-12,Laser Distance Meter,Industrial,North,1,88.6,88.6,0.0,22.15,Small Business
+ORD-2025227,2025-01-31,Mechanical Gaming Keyboard,Technology,West,1,91.54,77.81,0.15,16.48,Corporate
+ORD-2025228,2025-07-15,Industrial Grade Extension Cord,Industrial,West,8,36.31,275.96,0.05,75.53,Small Business
+ORD-2025229,2025-06-28,Wireless Noise-Cancelling Headphones,Technology,West,1,171.06,171.06,0.0,42.77,Corporate
+ORD-2025230,2025-08-26,Industrial Grade Extension Cord,Industrial,West,1,34.21,34.21,0.0,10.26,Consumer
+ORD-2025231,2025-12-05,Heavy Duty Storage Rack,Industrial,West,1,266.94,213.55,0.2,5.34,Small Business
+ORD-2025232,2025-12-27,Wireless Noise-Cancelling Headphones,Technology,East,1,186.55,186.55,0.0,46.64,Consumer
+ORD-2025233,2025-09-15,Solid Oak Conference Table,Furniture,East,4,827.64,3145.03,0.05,231.74,Small Business
+ORD-2025234,2025-09-24,Heavy-Duty Paper Shredder,Office Supplies,West,2,85.78,162.98,0.05,20.16,Small Business
+ORD-2025235,2025-12-14,Industrial Grade Extension Cord,Industrial,North,3,36.0,97.2,0.1,23.76,Small Business
+ORD-2025236,2025-08-02,Digital Caliper Stainless,Industrial,West,3,39.89,113.69,0.05,36.8,Corporate
+ORD-2025237,2025-12-29,Heavy-Duty Paper Shredder,Office Supplies,North,2,81.89,155.59,0.05,19.24,Corporate
+ORD-2025238,2025-04-15,Executive Leather Chair,Furniture,East,3,436.07,1177.39,0.1,75.88,Corporate
+ORD-2025239,2025-12-11,Smart Laptop Pro,Technology,South,3,1166.04,3323.21,0.05,411.03,Corporate
+ORD-2025240,2025-06-05,Wireless Noise-Cancelling Headphones,Technology,East,10,179.62,1706.39,0.05,381.69,Small Business
+ORD-2025241,2025-11-06,Heavy-Duty Paper Shredder,Office Supplies,South,2,85.29,153.52,0.1,14.5,Corporate
+ORD-2025242,2025-05-14,Filing Cabinet 3-Drawer,Furniture,West,3,133.4,360.18,0.1,44.82,Consumer
+ORD-2025243,2025-07-09,Adjustable LED Floor Lamp,Furniture,East,1,63.45,50.76,0.2,8.88,Small Business
+ORD-2025244,2025-08-02,Solid Oak Conference Table,Furniture,West,2,878.34,1493.18,0.15,17.57,Small Business
+ORD-2025245,2025-12-02,Modular Bookshelf,Furniture,West,2,183.7,330.66,0.1,47.76,Consumer
+ORD-2025246,2025-03-13,Digital Caliper Stainless,Industrial,North,1,41.27,41.27,0.0,14.44,Consumer
+ORD-2025247,2025-07-31,Gel Pens Pack (24ct),Office Supplies,West,1,17.49,14.87,0.15,4.64,Corporate
+ORD-2025248,2025-01-31,Industrial Grade Extension Cord,Industrial,West,2,33.29,53.26,0.2,9.32,Small Business
+ORD-2025249,2025-05-21,Executive Leather Chair,Furniture,West,1,431.83,410.24,0.05,38.43,Consumer
+ORD-2025250,2025-04-09,Modular Bookshelf,Furniture,East,8,189.22,1438.07,0.05,249.77,Small Business
+ORD-2025251,2025-04-26,Executive Leather Chair,Furniture,West,2,452.37,904.74,0.0,108.57,Small Business
+ORD-2025252,2025-01-05,Standing Desk Converter,Office Supplies,West,1,230.5,230.5,0.0,41.49,Small Business
+ORD-2025253,2025-01-22,Ergonomic Office Chair,Office Supplies,West,5,315.72,1420.74,0.1,233.63,Small Business
+ORD-2025254,2025-10-16,Wireless Noise-Cancelling Headphones,Technology,West,1,173.6,147.56,0.15,23.87,Consumer
+ORD-2025255,2025-06-03,Dry Erase Whiteboard 36x24,Office Supplies,South,3,55.22,140.81,0.15,22.78,Small Business
+ORD-2025256,2025-03-13,Ergonomic Vertical Mouse,Technology,West,2,46.52,83.74,0.1,24.66,Small Business
+ORD-2025257,2025-11-11,Laser Distance Meter,Industrial,North,2,87.55,140.08,0.2,17.51,Corporate
+ORD-2025258,2025-08-10,Gel Pens Pack (24ct),Office Supplies,West,3,18.54,55.62,0.0,22.25,Consumer
+ORD-2025259,2025-05-18,Heavy-Duty Paper Shredder,Office Supplies,South,1,80.79,72.71,0.1,6.87,Corporate
+ORD-2025260,2025-07-04,Executive Leather Chair,Furniture,West,2,452.56,724.1,0.2,-3.62,Corporate
+ORD-2025261,2025-02-22,Smart Laptop Pro,Technology,East,4,1243.65,4974.6,0.0,746.19,Corporate
+ORD-2025262,2025-07-31,Heavy Duty Storage Rack,Industrial,East,2,269.89,485.8,0.1,45.88,Corporate
+ORD-2025263,2025-09-10,Standing Desk Converter,Office Supplies,South,2,210.69,379.24,0.1,47.19,Consumer
+ORD-2025264,2025-11-17,Digital Caliper Stainless,Industrial,West,1,41.8,37.62,0.1,11.08,Small Business
+ORD-2025265,2025-07-14,Adjustable LED Floor Lamp,Furniture,East,3,65.61,177.15,0.1,43.3,Corporate
+ORD-2025266,2025-11-05,Heavy-Duty Paper Shredder,Office Supplies,West,2,83.46,141.88,0.15,8.76,Small Business
+ORD-2025267,2025-05-05,Adjustable LED Floor Lamp,Furniture,East,1,65.42,52.34,0.2,9.16,Small Business
+ORD-2025268,2025-04-03,USB-C Multiport Dock,Technology,East,4,77.48,309.92,0.0,86.78,Corporate
+ORD-2025269,2025-12-11,Digital Caliper Stainless,Industrial,West,3,40.86,104.19,0.15,27.27,Consumer
+ORD-2025270,2025-08-18,Industrial Grade Extension Cord,Industrial,West,2,36.38,58.21,0.2,10.19,Small Business
+ORD-2025271,2025-11-23,Smart Laptop Pro,Technology,South,3,1145.32,2920.57,0.15,180.39,Corporate
+ORD-2025272,2025-08-09,Smart Laptop Pro,Technology,West,2,1202.26,1923.62,0.2,48.09,Small Business
+ORD-2025273,2025-10-22,Heavy-Duty Paper Shredder,Office Supplies,West,3,85.75,205.8,0.2,5.14,Consumer
+ORD-2025274,2025-06-26,Mechanical Gaming Keyboard,Technology,West,5,91.07,432.58,0.05,118.39,Corporate
+ORD-2025275,2025-06-09,Adjustable LED Floor Lamp,Furniture,South,1,66.44,56.47,0.15,11.96,Corporate
+ORD-2025276,2025-02-04,Executive Leather Chair,Furniture,West,1,432.42,410.8,0.05,38.49,Small Business
+ORD-2025277,2025-05-05,Dry Erase Whiteboard 36x24,Office Supplies,West,2,54.79,93.14,0.15,15.07,Small Business
+ORD-2025278,2025-04-05,Gel Pens Pack (24ct),Office Supplies,West,3,18.69,47.66,0.15,14.86,Small Business
+ORD-2025279,2025-08-08,Heavy Duty Storage Rack,Industrial,West,3,288.64,865.92,0.0,129.89,Small Business
+ORD-2025280,2025-02-22,Thermal Label Printer,Office Supplies,West,1,142.39,121.03,0.15,13.53,Small Business
+ORD-2025281,2025-11-24,Filing Cabinet 3-Drawer,Furniture,West,1,134.49,107.59,0.2,5.92,Consumer
+ORD-2025282,2025-12-11,Filing Cabinet 3-Drawer,Furniture,North,1,125.02,112.52,0.1,14.0,Small Business
+ORD-2025283,2025-03-14,Industrial Grade Extension Cord,Industrial,South,2,35.13,66.75,0.05,18.27,Small Business
+ORD-2025284,2025-03-27,Laser Distance Meter,Industrial,West,4,91.07,327.85,0.1,63.75,Consumer
+ORD-2025285,2025-09-06,Ergonomic Office Chair,Office Supplies,West,2,315.73,536.74,0.15,70.72,Small Business
+ORD-2025286,2025-08-16,Digital Caliper Stainless,Industrial,North,1,38.13,36.22,0.05,11.72,Small Business
+ORD-2025287,2025-05-28,Heavy-Duty Paper Shredder,Office Supplies,East,1,87.34,78.61,0.1,7.42,Small Business
+ORD-2025288,2025-01-22,Digital Caliper Stainless,Industrial,West,4,41.01,147.64,0.1,43.47,Consumer
+ORD-2025289,2025-08-19,Modular Bookshelf,Furniture,North,3,185.0,444.0,0.2,33.3,Small Business
+ORD-2025290,2025-06-29,Digital Caliper Stainless,Industrial,South,4,40.28,128.9,0.2,29.0,Corporate
+ORD-2025291,2025-11-02,Thermal Label Printer,Office Supplies,West,1,145.01,145.01,0.0,29.0,Consumer
+ORD-2025292,2025-07-30,Ultra HD 4K Monitor,Technology,East,1,343.77,326.58,0.05,56.72,Small Business
+ORD-2025293,2025-07-21,Digital Caliper Stainless,Industrial,East,1,41.18,41.18,0.0,14.41,Corporate
+ORD-2025294,2025-09-21,Modular Bookshelf,Furniture,West,1,195.21,195.21,0.0,39.04,Small Business
+ORD-2025295,2025-08-23,Executive Leather Chair,Furniture,West,2,437.03,786.65,0.1,50.69,Corporate
+ORD-2025296,2025-05-26,Filing Cabinet 3-Drawer,Furniture,South,1,132.37,132.37,0.0,23.83,Consumer
+ORD-2025297,2025-02-20,Heavy Duty Storage Rack,Industrial,East,2,293.77,499.41,0.15,30.85,Consumer
+ORD-2025298,2025-12-19,Gel Pens Pack (24ct),Office Supplies,West,5,17.59,79.16,0.1,27.27,Corporate
+ORD-2025299,2025-02-12,Solid Oak Conference Table,Furniture,West,1,866.95,823.6,0.05,60.69,Corporate
+ORD-2025300,2025-12-02,USB-C Multiport Dock,Technology,West,2,72.25,137.28,0.05,34.83,Small Business
+ORD-2025301,2025-12-15,Heavy Duty Storage Rack,Industrial,North,10,277.82,2639.29,0.05,326.44,Corporate
+ORD-2025302,2025-02-06,Heavy-Duty Paper Shredder,Office Supplies,East,1,88.24,83.83,0.05,10.37,Corporate
+ORD-2025303,2025-03-10,Standing Desk Converter,Office Supplies,East,2,213.69,406.01,0.05,62.4,Corporate
+ORD-2025304,2025-11-12,Digital Caliper Stainless,Industrial,East,1,40.92,36.83,0.1,10.84,Corporate
+ORD-2025305,2025-06-11,Ergonomic Office Chair,,East,3,316.86,855.52,0.1,140.69,Small Business
+ORD-2025306,2025-01-14,Solid Oak Conference Table,Furniture,East,1,883.82,839.63,0.05,61.87,Corporate
+ORD-2025307,2025-07-17,Wireless Noise-Cancelling Headphones,Technology,East,5,171.22,770.49,0.1,149.82,Corporate
+ORD-2025308,2025-03-09,Industrial Grade Extension Cord,Industrial,East,2,36.71,73.42,0.0,22.03,Consumer
+ORD-2025309,2025-10-28,Smart Laptop Pro,Technology,West,5,1253.84,5328.82,0.15,329.13,Small Business
+ORD-2025310,2025-05-27,Industrial Grade Extension Cord,Industrial,West,2,35.41,63.74,0.1,15.58,Consumer
+ORD-2025311,2025-06-08,Ergonomic Vertical Mouse,Technology,East,1,45.39,45.39,0.0,15.89,Corporate
+ORD-2025312,2025-12-24,Digital Caliper Stainless,Industrial,West,5,38.46,153.84,0.2,34.61,Small Business
+ORD-2025313,2025-01-29,Solid Oak Conference Table,Furniture,West,1,808.46,687.19,0.15,8.08,Corporate
+ORD-2025314,2025-09-25,Solid Oak Conference Table,Furniture,West,4,830.34,3321.36,0.0,332.14,Consumer
+ORD-2025315,2025-06-21,Laser Distance Meter,Industrial,West,8,91.15,619.82,0.15,100.27,Corporate
+ORD-2025316,2025-09-19,Executive Leather Chair,Furniture,East,1,462.3,369.84,0.2,-1.85,Small Business
+ORD-2025317,2025-03-01,Gel Pens Pack (24ct),Office Supplies,West,4,17.54,59.64,0.15,18.59,Corporate
+ORD-2025318,2025-07-16,Ergonomic Office Chair,Office Supplies,North,3,307.5,830.25,0.1,136.53,Consumer
+ORD-2025319,2025-08-02,Modular Bookshelf,Furniture,East,3,181.5,517.27,0.05,89.84,Small Business
+ORD-2025320,2025-01-24,Heavy Duty Storage Rack,Industrial,West,1,268.42,228.16,0.15,14.09,Consumer
+ORD-2025321,2025-07-08,Thermal Label Printer,Office Supplies,East,2,146.61,278.56,0.05,48.38,Small Business
+ORD-2025322,2025-10-07,Ergonomic Office Chair,Office Supplies,East,2,314.21,628.42,0.0,138.25,Corporate
+ORD-2025323,2025-01-01,Laser Distance Meter,Industrial,West,10,89.28,892.8,0.0,223.2,Consumer
+ORD-2025324,2025-12-31,Executive Leather Chair,Furniture,North,2,459.04,826.27,0.1,53.25,Corporate
+ORD-2025325,2025-02-13,Ergonomic Vertical Mouse,Technology,South,2,43.03,81.76,0.05,26.46,Consumer
+ORD-2025326,2025-05-30,Modular Bookshelf,Furniture,West,1,185.67,185.67,0.0,37.13,Consumer
+ORD-2025327,2025-03-11,Wireless Noise-Cancelling Headphones,Technology,West,2,178.32,285.31,0.2,35.66,Corporate
+ORD-2025328,2025-04-17,Laser Distance Meter,Industrial,West,1,86.92,78.23,0.1,15.21,Small Business
+ORD-2025329,2025-12-23,Wireless Noise-Cancelling Headphones,Technology,West,3,188.43,480.5,0.15,77.73,Small Business
+ORD-2025330,2025-01-26,Modular Bookshelf,Furniture,West,2,189.09,302.54,0.2,22.69,Consumer
+ORD-2025331,2025-02-18,Heavy Duty Storage Rack,Industrial,West,1,287.87,273.48,0.05,33.83,Consumer
+ORD-2025332,2025-04-12,Laser Distance Meter,Industrial,East,4,85.7,342.8,0.0,85.7,Consumer
+ORD-2025333,2025-11-27,Digital Caliper Stainless,Industrial,North,1,38.17,32.44,0.15,8.49,Consumer
+ORD-2025334,2025-03-28,Industrial Grade Extension Cord,Industrial,West,3,33.85,96.47,0.05,26.4,Consumer
+ORD-2025335,2025-05-21,Adjustable LED Floor Lamp,Furniture,West,3,63.35,171.05,0.1,41.81,Corporate
+ORD-2025336,2025-07-30,Heavy Duty Storage Rack,Industrial,West,1,271.58,217.26,0.2,5.43,Consumer
+ORD-2025337,2025-11-19,Mechanical Gaming Keyboard,Technology,East,1,95.62,86.06,0.1,21.04,Corporate
+ORD-2025338,2025-05-19,Standing Desk Converter,Office Supplies,East,4,215.18,731.61,0.15,67.14,Small Business
+ORD-2025339,2025-07-03,Ergonomic Office Chair,Office Supplies,West,1,311.04,311.04,0.0,68.43,Consumer
+ORD-2025340,2025-10-22,Laser Distance Meter,Industrial,West,2,92.76,166.97,0.1,32.47,Small Business
+ORD-2025341,2025-01-15,Filing Cabinet 3-Drawer,Furniture,East,10,134.96,1147.16,0.15,105.27,Small Business
+ORD-2025342,2025-06-08,Heavy-Duty Paper Shredder,Office Supplies,West,1,82.61,66.09,0.2,1.65,Corporate
+ORD-2025343,2025-01-01,Filing Cabinet 3-Drawer,Furniture,South,1,133.93,120.54,0.1,15.0,Consumer
+ORD-2025344,2025-01-12,Dry Erase Whiteboard 36x24,Office Supplies,South,4,57.53,207.11,0.1,40.27,Small Business
+ORD-2025345,2025-12-06,Heavy Duty Storage Rack,Industrial,West,1,270.41,229.85,0.15,14.2,Small Business
+ORD-2025346,2025-09-07,Solid Oak Conference Table,Furniture,West,2,822.4,1480.32,0.1,65.79,Small Business
+ORD-2025347,2025-12-19,Solid Oak Conference Table,Furniture,South,5,840.79,3363.16,0.2,-84.08,Consumer
+ORD-2025348,2025-04-04,Filing Cabinet 3-Drawer,Furniture,East,2,127.81,255.62,0.0,46.01,Consumer
+ORD-2025349,2025-06-27,Solid Oak Conference Table,Furniture,North,3,836.04,2508.12,0.0,250.81,Corporate
+ORD-2025350,2025-04-18,Gel Pens Pack (24ct),Office Supplies,West,4,18.4,73.6,0.0,29.44,Corporate
+ORD-2025351,2025-08-13,Digital Caliper Stainless,Industrial,West,2,38.41,65.3,0.15,17.09,Small Business
+ORD-2025352,2025-11-30,Ergonomic Office Chair,Office Supplies,West,4,303.64,1093.1,0.1,179.75,Corporate
+ORD-2025353,2025-02-23,Ultra HD 4K Monitor,Technology,East,1,365.46,365.46,0.0,73.09,Corporate
+ORD-2025354,2025-11-01,Heavy Duty Storage Rack,Industrial,East,5,270.4,1352.0,0.0,202.8,Corporate
+ORD-2025355,2025-04-16,Heavy-Duty Paper Shredder,Office Supplies,East,1,84.09,67.27,0.2,1.68,Corporate
+ORD-2025356,2025-03-20,Ultra HD 4K Monitor,Technology,East,3,353.51,1007.5,0.05,174.99,Consumer
+ORD-2025357,2025-01-14,Ergonomic Office Chair,Office Supplies,East,1,318.83,271.01,0.15,35.71,Corporate
+ORD-2025358,2025-12-05,Executive Leather Chair,Furniture,West,5,444.12,1887.51,0.15,59.96,Consumer
+ORD-2025359,2025-05-15,Industrial Grade Extension Cord,Industrial,West,1,33.47,33.47,0.0,10.04,Consumer
+ORD-2025360,2025-12-09,Filing Cabinet 3-Drawer,Furniture,West,2,134.43,215.09,0.2,11.83,Corporate
+ORD-2025361,2025-10-02,Digital Caliper Stainless,Industrial,West,2,41.42,82.84,0.0,28.99,Small Business
+ORD-2025362,2025-10-20,Standing Desk Converter,Office Supplies,West,10,230.39,2188.7,0.05,336.37,Consumer
+ORD-2025363,2025-01-22,Heavy Duty Storage Rack,Industrial,West,4,270.14,864.45,0.2,21.61,Corporate
+ORD-2025364,2025-06-13,Smart Laptop Pro,Technology,West,4,1202.36,4809.44,0.0,721.42,Small Business
+ORD-2025365,2025-11-16,Heavy Duty Storage Rack,Industrial,West,2,282.31,564.62,0.0,84.69,Consumer
+ORD-2025366,2025-10-16,Ultra HD 4K Monitor,Technology,East,3,352.52,898.93,0.15,100.47,Consumer
+ORD-2025367,2025-03-30,Adjustable LED Floor Lamp,Furniture,South,2,64.32,115.78,0.1,28.3,Small Business
+ORD-2025368,2025-05-02,USB-C Multiport Dock,Technology,West,1,77.38,69.64,0.1,15.63,Corporate
+ORD-2025369,2025-05-24,Heavy Duty Storage Rack,Industrial,West,8,278.41,2004.55,0.1,189.32,Corporate
+ORD-2025370,2025-08-02,Wireless Noise-Cancelling Headphones,Technology,West,4,184.34,589.89,0.2,73.74,Corporate
+ORD-2025371,2025-01-29,Standing Desk Converter,Office Supplies,East,4,220.53,705.7,0.2,38.81,Consumer
+ORD-2025372,2025-03-30,Ergonomic Office Chair,Office Supplies,West,2,322.96,613.62,0.05,118.85,Corporate
+ORD-2025373,2025-07-08,Industrial Grade Extension Cord,Industrial,East,2,34.81,59.18,0.15,12.53,Small Business
+ORD-2025374,2025-10-10,Modular Bookshelf,Furniture,East,4,182.22,728.88,0.0,145.78,Corporate
+ORD-2025375,2025-01-26,Dry Erase Whiteboard 36x24,Office Supplies,South,3,53.73,137.01,0.15,22.16,Small Business
+ORD-2025376,2025-01-11,Mechanical Gaming Keyboard,Technology,South,1,92.65,83.39,0.1,20.38,Small Business
+ORD-2025377,2025-12-30,Adjustable LED Floor Lamp,Furniture,West,1,63.71,50.97,0.2,8.92,Small Business
+ORD-2025378,2025-07-23,Smart Laptop Pro,Technology,East,1,1222.13,1038.81,0.15,64.16,Consumer
+ORD-2025379,2025-06-22,Modular Bookshelf,Furniture,West,3,197.46,533.14,0.1,77.01,Consumer
+ORD-2025380,2025-03-18,Standing Desk Converter,Office Supplies,West,3,223.42,603.23,0.1,75.07,Corporate
+ORD-2025381,2025-08-03,Industrial Grade Extension Cord,Industrial,North,4,34.45,130.91,0.05,35.83,Small Business
+ORD-2025382,2025-10-01,Laser Distance Meter,Industrial,East,4,87.13,348.52,0.0,87.13,Corporate
+ORD-2025383,2025-03-07,Filing Cabinet 3-Drawer,Furniture,South,3,126.39,360.21,0.05,55.36,Small Business
+ORD-2025384,2025-06-07,Laser Distance Meter,Industrial,West,1,93.16,79.19,0.15,12.81,Consumer
+ORD-2025385,2025-11-21,Mechanical Gaming Keyboard,Technology,South,2,93.08,186.16,0.0,55.85,Consumer
+ORD-2025386,2025-03-12,Thermal Label Printer,Office Supplies,West,10,135.01,1282.59,0.05,222.77,Consumer
+ORD-2025387,2025-09-07,Solid Oak Conference Table,Furniture,East,1,872.2,828.59,0.05,61.05,Small Business
+ORD-2025388,2025-03-23,Heavy Duty Storage Rack,Industrial,South,2,293.03,498.15,0.15,30.77,Consumer
+ORD-2025389,2025-01-20,Gel Pens Pack (24ct),Office Supplies,East,3,18.06,54.18,0.0,21.67,Small Business
+ORD-2025390,2025-01-03,Ergonomic Office Chair,Office Supplies,West,1,310.1,279.09,0.1,45.89,Consumer
+ORD-2025391,2025-02-03,Ultra HD 4K Monitor,Technology,East,2,347.68,660.59,0.05,114.73,Corporate
+ORD-2025392,2025-09-08,Solid Oak Conference Table,Furniture,South,2,826.92,1571.15,0.05,115.77,Consumer
+ORD-2025393,2025-01-12,Standing Desk Converter,Office Supplies,East,2,223.09,356.94,0.2,19.63,Small Business
+ORD-2025394,2025-01-25,USB-C Multiport Dock,Technology,East,3,74.38,189.67,0.15,36.37,Consumer
+ORD-2025395,2025-10-08,Adjustable LED Floor Lamp,Furniture,West,3,61.81,157.62,0.15,33.38,Small Business
+ORD-2025396,2025-02-21,Filing Cabinet 3-Drawer,Furniture,South,2,131.53,236.75,0.1,29.46,Consumer
+ORD-2025397,2025-02-24,Digital Caliper Stainless,Industrial,South,8,39.43,268.12,0.15,70.18,Corporate
+ORD-2025398,2025-03-24,Ergonomic Vertical Mouse,Technology,West,2,43.81,87.62,0.0,30.67,Small Business
+ORD-2025399,2025-02-15,Ergonomic Vertical Mouse,Technology,West,1,45.05,45.05,0.0,15.77,Corporate
+ORD-2025400,2025-11-26,Heavy-Duty Paper Shredder,Office Supplies,West,1,87.66,87.66,0.0,13.15,Corporate
+ORD-2025401,2025-07-04,Adjustable LED Floor Lamp,Furniture,West,3,62.05,176.84,0.05,48.4,Small Business
+ORD-2025402,2025-11-28,Thermal Label Printer,Office Supplies,East,1,143.26,128.93,0.1,18.62,Corporate
+ORD-2025403,2025-04-04,Mechanical Gaming Keyboard,Technology,East,2,98.33,167.16,0.15,35.4,Small Business
+ORD-2025404,2025-03-27,Wireless Noise-Cancelling Headphones,Technology,North,1,187.4,159.29,0.15,25.77,Small Business
+ORD-2025405,2025-12-14,Digital Caliper Stainless,Industrial,West,4,41.52,157.78,0.05,51.07,Corporate
+ORD-2025406,2025-09-07,Mechanical Gaming Keyboard,Technology,West,1,93.24,74.59,0.2,13.05,Small Business
+ORD-2025407,2025-10-23,Gel Pens Pack (24ct),Office Supplies,East,3,17.88,50.96,0.05,19.04,Corporate
+ORD-2025408,2025-06-27,Digital Caliper Stainless,Industrial,West,5,40.02,170.09,0.15,44.52,Corporate
+ORD-2025409,2025-03-26,Mechanical Gaming Keyboard,Technology,West,8,90.73,689.55,0.05,188.72,Small Business
+ORD-2025410,2025-11-26,Industrial Grade Extension Cord,Industrial,West,2,35.26,70.52,0.0,21.16,Corporate
+ORD-2025411,2025-08-17,Executive Leather Chair,Furniture,East,2,429.11,686.58,0.2,-3.43,Consumer
+ORD-2025412,2025-02-16,Filing Cabinet 3-Drawer,Furniture,South,1,134.23,127.52,0.05,19.6,
+ORD-2025413,2025-06-19,Laser Distance Meter,Industrial,West,3,87.5,236.25,0.1,45.94,Corporate
+ORD-2025414,2025-11-21,Filing Cabinet 3-Drawer,Furniture,East,1,125.33,106.53,0.15,9.78,Consumer
+ORD-2025415,2025-05-11,Ergonomic Office Chair,Office Supplies,North,2,318.72,573.7,0.1,94.34,Consumer
+ORD-2025416,2025-08-01,USB-C Multiport Dock,Technology,North,3,78.42,223.5,0.05,56.7,Corporate
+ORD-2025417,2025-01-03,Ergonomic Vertical Mouse,Technology,West,2,46.9,89.11,0.05,28.84,Small Business
+ORD-2025418,2025-10-24,Gel Pens Pack (24ct),Office Supplies,West,3,18.19,49.11,0.1,16.92,Small Business
+ORD-2025419,2025-07-16,Digital Caliper Stainless,Industrial,West,1,39.18,37.22,0.05,12.05,Consumer
+ORD-2025420,2025-07-31,Filing Cabinet 3-Drawer,Furniture,East,3,126.11,302.66,0.2,16.65,Small Business
+ORD-2025421,2025-05-29,Solid Oak Conference Table,Furniture,South,1,817.31,735.58,0.1,32.69,Small Business
+ORD-2025422,2025-09-03,Laser Distance Meter,Industrial,West,1,86.81,86.81,0.0,21.7,Consumer
+ORD-2025423,2025-05-17,Thermal Label Printer,Office Supplies,West,1,143.98,136.78,0.05,23.76,Small Business
+ORD-2025424,2025-01-17,Adjustable LED Floor Lamp,Furniture,North,2,63.21,101.14,0.2,17.7,Corporate
+ORD-2025425,2025-05-02,Executive Leather Chair,Furniture,West,8,471.41,3394.15,0.1,218.73,Small Business
+ORD-2025426,2025-01-28,USB-C Multiport Dock,Technology,West,4,77.7,264.18,0.15,50.66,Consumer
+ORD-2025427,2025-11-21,Filing Cabinet 3-Drawer,Furniture,South,1,125.81,125.81,0.0,22.65,Consumer
+ORD-2025428,2025-03-30,Mechanical Gaming Keyboard,Technology,North,1,95.8,86.22,0.1,21.08,Consumer
+ORD-2025429,2025-06-19,Digital Caliper Stainless,Industrial,West,1,38.2,30.56,0.2,6.88,Small Business
+ORD-2025430,2025-06-04,Laser Distance Meter,Industrial,North,1,87.15,87.15,0.0,21.79,Small Business
+ORD-2025431,2025-03-23,Industrial Grade Extension Cord,Industrial,West,5,35.57,160.06,0.1,39.13,Corporate
+ORD-2025432,2025-05-31,Dry Erase Whiteboard 36x24,Office Supplies,West,10,52.3,470.7,0.1,91.52,Corporate
+ORD-2025433,2025-05-04,Standing Desk Converter,Office Supplies,West,4,211.49,761.36,0.1,94.75,Small Business
+ORD-2025434,2025-05-25,Ergonomic Vertical Mouse,Technology,East,2,44.08,83.75,0.05,27.11,Corporate
+ORD-2025435,2025-09-21,Smart Laptop Pro,Technology,South,2,1215.23,2308.94,0.05,285.58,Small Business
+ORD-2025436,2025-11-19,Gel Pens Pack (24ct),Office Supplies,East,4,18.68,63.51,0.15,19.8,Small Business
+ORD-2025437,2025-02-06,Standing Desk Converter,Office Supplies,East,1,212.92,191.63,0.1,23.85,Small Business
+ORD-2025438,2025-02-06,Thermal Label Printer,Office Supplies,West,3,139.06,417.18,0.0,83.44,Corporate
+ORD-2025439,2025-12-11,Ergonomic Vertical Mouse,Technology,North,3,45.39,136.17,0.0,47.66,Corporate
+ORD-2025440,2025-09-15,Ultra HD 4K Monitor,Technology,East,5,345.85,1729.25,0.0,345.85,Corporate
+ORD-2025441,2025-03-22,Ergonomic Office Chair,Office Supplies,West,1,314.16,282.74,0.1,46.49,Small Business
+ORD-2025442,2025-11-28,Executive Leather Chair,Furniture,West,1,454.35,363.48,0.2,-1.82,Small Business
+ORD-2025443,2025-02-13,Solid Oak Conference Table,Furniture,West,5,879.87,4179.38,0.05,307.95,Consumer
+ORD-2025444,2025-04-05,Dry Erase Whiteboard 36x24,Office Supplies,West,1,56.65,56.65,0.0,14.16,Small Business
+ORD-2025445,2025-08-25,Ultra HD 4K Monitor,Technology,West,1,352.82,317.54,0.1,45.87,Corporate
+ORD-2025446,2025-03-07,Standing Desk Converter,Office Supplies,East,1,218.91,175.13,0.2,9.63,Small Business
+ORD-2025447,2025-06-06,Dry Erase Whiteboard 36x24,Office Supplies,East,1,53.97,51.27,0.05,11.47,Small Business
+ORD-2025448,2025-11-25,Laser Distance Meter,Industrial,West,3,93.4,238.17,0.15,38.53,Corporate
+ORD-2025449,2025-07-03,Adjustable LED Floor Lamp,Furniture,West,3,67.22,191.58,0.05,52.43,Small Business
+ORD-2025450,2025-04-11,Executive Leather Chair,Furniture,North,3,464.07,1113.77,0.2,-5.57,Corporate
+ORD-2025451,2025-10-30,Standing Desk Converter,Office Supplies,East,2,226.05,406.89,0.1,50.64,Corporate
+ORD-2025452,2025-04-25,Solid Oak Conference Table,Furniture,East,2,808.4,1535.96,0.05,113.18,Small Business
+ORD-2025453,2025-12-17,Dry Erase Whiteboard 36x24,Office Supplies,East,5,55.88,265.43,0.05,59.37,Small Business
+ORD-2025454,2025-09-05,Executive Leather Chair,Furniture,East,1,438.03,416.13,0.05,38.98,Small Business
+ORD-2025455,2025-07-04,Industrial Grade Extension Cord,Industrial,East,3,33.61,80.66,0.2,14.11,Small Business
+ORD-2025456,2025-05-21,Filing Cabinet 3-Drawer,Furniture,West,2,131.14,262.28,0.0,47.21,Small Business
+ORD-2025457,2025-05-09,Digital Caliper Stainless,Industrial,West,4,39.95,135.83,0.15,35.56,Small Business
+ORD-2025458,2025-01-04,Heavy-Duty Paper Shredder,Office Supplies,West,2,83.14,157.97,0.05,19.54,Consumer
+ORD-2025459,2025-03-22,Filing Cabinet 3-Drawer,Furniture,North,1,124.97,106.22,0.15,9.75,Corporate
+ORD-2025460,2025-04-18,Gel Pens Pack (24ct),Office Supplies,West,1,18.13,17.22,0.05,6.43,Consumer
+ORD-2025461,2025-11-19,Ergonomic Vertical Mouse,Technology,West,1,43.56,37.03,0.15,9.69,Small Business
+ORD-2025462,2025-10-16,USB-C Multiport Dock,Technology,East,3,74.79,190.71,0.15,36.57,Consumer
+ORD-2025463,2025-04-23,Digital Caliper Stainless,Industrial,South,1,40.74,34.63,0.15,9.06,Small Business
+ORD-2025464,2025-10-30,Wireless Noise-Cancelling Headphones,Technology,West,1,174.64,139.71,0.2,17.46,Small Business
+ORD-2025465,2025-08-03,Dry Erase Whiteboard 36x24,Office Supplies,West,5,55.55,222.2,0.2,27.77,Small Business
+ORD-2025466,2025-03-02,Mechanical Gaming Keyboard,Technology,South,1,99.16,84.29,0.15,17.85,Small Business
+ORD-2025467,2025-08-04,Executive Leather Chair,Furniture,West,4,463.03,1574.3,0.15,50.01,Corporate
+ORD-2025468,2025-10-29,Mechanical Gaming Keyboard,Technology,West,3,98.9,296.7,0.0,89.01,Corporate
+ORD-2025469,2025-11-03,Laser Distance Meter,Industrial,West,3,85.56,205.34,0.2,25.67,Consumer
+ORD-2025470,2025-09-24,Mechanical Gaming Keyboard,Technology,South,2,91.72,146.75,0.2,25.68,Corporate
+ORD-2025471,2025-05-14,Laser Distance Meter,Industrial,East,1,90.47,72.38,0.2,9.05,Corporate
+ORD-2025472,2025-04-02,Filing Cabinet 3-Drawer,Furniture,West,1,127.98,108.78,0.15,9.98,Small Business
+ORD-2025473,2025-03-12,USB-C Multiport Dock,Technology,South,1,72.86,61.93,0.15,11.88,Corporate
+ORD-2025474,2025-10-09,Wireless Noise-Cancelling Headphones,Technology,East,1,173.62,138.9,0.2,17.36,Corporate
+ORD-2025475,2025-02-15,Ultra HD 4K Monitor,Technology,West,3,357.86,912.54,0.15,101.99,Small Business
+ORD-2025476,2025-12-02,Filing Cabinet 3-Drawer,Furniture,North,3,129.21,368.25,0.05,56.59,Small Business
+ORD-2025477,2025-09-23,Solid Oak Conference Table,Furniture,North,3,859.79,2579.37,0.0,257.94,Corporate
+ORD-2025478,2025-05-03,Wireless Noise-Cancelling Headphones,Technology,North,2,178.11,284.98,0.2,35.62,Consumer
+ORD-2025479,2025-09-23,USB-C Multiport Dock,Technology,North,3,75.44,181.06,0.2,28.06,Corporate
+ORD-2025480,2025-06-27,Solid Oak Conference Table,Furniture,South,1,822.38,657.9,0.2,-16.45,Consumer
+ORD-2025481,2025-10-14,Ergonomic Vertical Mouse,Technology,West,1,45.06,40.55,0.1,11.94,Small Business
+ORD-2025482,2025-10-22,Adjustable LED Floor Lamp,Furniture,West,3,68.0,173.4,0.15,36.72,Small Business
+ORD-2025483,2025-08-24,Mechanical Gaming Keyboard,Technology,West,2,97.74,185.71,0.05,50.83,Small Business
+ORD-2025484,2025-12-26,Thermal Label Printer,Office Supplies,West,1,144.65,137.42,0.05,23.87,Corporate
+ORD-2025485,2025-02-17,Laser Distance Meter,Industrial,East,1,87.47,69.98,0.2,8.75,Corporate
+ORD-2025486,2025-04-04,Heavy-Duty Paper Shredder,Office Supplies,West,1,83.01,78.86,0.05,9.75,Consumer
+ORD-2025487,2025-05-08,Solid Oak Conference Table,Furniture,West,1,888.74,755.43,0.15,8.89,Small Business
+ORD-2025488,2025-01-04,Mechanical Gaming Keyboard,Technology,East,10,98.77,888.93,0.1,217.29,Corporate
+ORD-2025489,2025-04-04,Adjustable LED Floor Lamp,Furniture,East,2,64.5,103.2,0.2,18.06,Consumer
+ORD-2025490,2025-09-15,Adjustable LED Floor Lamp,Furniture,East,2,63.8,127.6,0.0,38.28,Consumer
+ORD-2025491,2025-12-12,Heavy-Duty Paper Shredder,Office Supplies,West,3,82.96,199.1,0.2,4.98,Corporate
+ORD-2025492,2025-05-02,Adjustable LED Floor Lamp,Furniture,West,2,63.12,113.62,0.1,27.77,Corporate
+ORD-2025493,2025-07-25,Adjustable LED Floor Lamp,Furniture,South,3,67.04,181.01,0.1,44.25,Consumer
+ORD-2025494,2025-10-12,Industrial Grade Extension Cord,Industrial,West,8,33.77,270.16,0.0,81.05,Consumer
+ORD-2025495,2025-08-04,Digital Caliper Stainless,Industrial,East,2,40.27,68.46,0.15,17.92,Consumer
+ORD-2025496,2025-12-20,Standing Desk Converter,Office Supplies,South,3,218.9,591.03,0.1,73.55,Corporate
+ORD-2025497,2025-07-04,Filing Cabinet 3-Drawer,Furniture,West,2,128.06,204.9,0.2,11.27,Consumer
+ORD-2025498,2025-10-23,Thermal Label Printer,Office Supplies,West,2,143.85,244.54,0.15,27.33,Consumer
+ORD-2025499,2025-07-15,Adjustable LED Floor Lamp,Furniture,South,5,64.49,257.96,0.2,45.14,Small Business
+ORD-2025500,2025-07-27,Smart Laptop Pro,Technology,West,1,1218.36,1096.52,0.1,103.56,Small Business
+ORD-2025501,2025-11-27,Laser Distance Meter,Industrial,West,3,90.19,229.98,0.15,37.2,Corporate
+ORD-2025502,2025-03-27,Standing Desk Converter,Office Supplies,South,5,224.42,1122.1,0.0,201.98,Consumer
+ORD-2025503,2025-03-27,Heavy Duty Storage Rack,Industrial,West,4,281.36,1125.44,0.0,168.82,Corporate
+ORD-2025504,2025-09-26,Smart Laptop Pro,Technology,East,5,1186.78,5637.2,0.05,697.23,Consumer
+ORD-2025505,2025-05-26,Digital Caliper Stainless,Industrial,East,1,39.43,35.49,0.1,10.45,Corporate
+ORD-2025506,2025-08-28,Filing Cabinet 3-Drawer,Furniture,West,5,130.51,522.04,0.2,28.71,Small Business
+ORD-2025507,2025-08-22,Laser Distance Meter,Industrial,East,1,88.27,75.03,0.15,12.14,Corporate
+ORD-2025508,2025-03-21,Executive Leather Chair,Furniture,North,1,440.4,352.32,0.2,-1.76,Consumer
+ORD-2025509,2025-12-19,Industrial Grade Extension Cord,Industrial,West,2,34.28,65.13,0.05,17.82,Consumer
+ORD-2025510,2025-10-08,Solid Oak Conference Table,Furniture,West,1,868.27,738.03,0.15,8.68,Corporate
+ORD-2025511,2025-04-23,Executive Leather Chair,Furniture,West,4,455.09,1638.32,0.1,105.58,Corporate
+ORD-2025512,2025-11-29,Adjustable LED Floor Lamp,Furniture,East,1,65.89,52.71,0.2,9.22,Corporate
+ORD-2025513,2025-05-20,Digital Caliper Stainless,Industrial,West,1,40.14,38.13,0.05,12.34,Consumer
+ORD-2025514,2025-05-25,Solid Oak Conference Table,Furniture,East,1,849.45,764.51,0.1,33.98,Corporate
+ORD-2025515,2025-06-09,Laser Distance Meter,Industrial,East,1,92.26,87.65,0.05,19.61,Consumer
+ORD-2025516,2025-05-17,Heavy Duty Storage Rack,Industrial,West,5,273.0,1160.25,0.15,71.66,Consumer
+ORD-2025517,2025-03-04,Heavy-Duty Paper Shredder,Office Supplies,West,10,82.44,824.4,0.0,123.66,Small Business
+ORD-2025518,2025-12-07,Heavy-Duty Paper Shredder,Office Supplies,West,1,86.1,86.1,0.0,12.91,Small Business
+ORD-2025519,2025-10-09,Ultra HD 4K Monitor,Technology,East,5,362.73,1722.97,0.05,299.25,Consumer
+ORD-2025520,2025-05-01,Laser Distance Meter,Industrial,West,1,86.58,82.25,0.05,18.4,Consumer
+ORD-2025521,2025-01-22,Digital Caliper Stainless,Industrial,East,2,40.74,73.33,0.1,21.59,Small Business
+ORD-2025522,2025-01-31,Ultra HD 4K Monitor,Technology,South,1,340.64,272.51,0.2,20.44,Small Business
+ORD-2025523,2025-06-27,Digital Caliper Stainless,Industrial,North,1,41.59,35.35,0.15,9.25,Small Business
+ORD-2025524,2025-08-13,Filing Cabinet 3-Drawer,Furniture,West,1,128.02,108.82,0.15,9.99,Corporate
+ORD-2025525,2025-11-03,Standing Desk Converter,Office Supplies,South,2,218.99,350.38,0.2,19.27,Corporate
+ORD-2025526,2025-04-05,Ergonomic Vertical Mouse,Technology,East,3,45.71,109.7,0.2,24.68,Corporate
+ORD-2025527,2025-04-08,Digital Caliper Stainless,Industrial,West,3,38.44,92.26,0.2,20.76,Small Business
+ORD-2025528,2025-02-04,Wireless Noise-Cancelling Headphones,Technology,East,2,172.78,276.45,0.2,34.56,Small Business
+ORD-2025529,2025-07-18,Laser Distance Meter,Industrial,West,3,86.14,245.5,0.05,54.91,Small Business
+ORD-2025530,2025-09-09,Mechanical Gaming Keyboard,Technology,West,3,98.71,266.52,0.1,65.15,Small Business
+ORD-2025531,2025-01-30,Filing Cabinet 3-Drawer,Furniture,North,1,126.31,101.05,0.2,5.56,Consumer
+ORD-2025532,2025-02-21,Dry Erase Whiteboard 36x24,Office Supplies,West,2,53.62,101.88,0.05,22.79,Small Business
+ORD-2025533,2025-10-13,Heavy Duty Storage Rack,Industrial,East,2,268.91,510.93,0.05,63.19,Small Business
+ORD-2025534,2025-07-25,Solid Oak Conference Table,Furniture,West,2,892.23,1606.01,0.1,71.38,Corporate
+ORD-2025535,2025-11-21,Laser Distance Meter,Industrial,East,3,93.84,253.37,0.1,49.27,Corporate
+ORD-2025536,2025-08-20,Industrial Grade Extension Cord,Industrial,North,2,35.06,63.11,0.1,15.43,Consumer
+ORD-2025537,2025-06-03,Ergonomic Office Chair,Office Supplies,West,4,315.88,1137.17,0.1,187.0,Small Business
+ORD-2025538,2025-09-19,Standing Desk Converter,Office Supplies,East,1,228.57,217.14,0.05,33.37,Consumer
+ORD-2025539,2025-05-12,Executive Leather Chair,Furniture,East,1,442.11,375.79,0.15,11.94,Consumer
+ORD-2025540,2025-09-07,Ergonomic Vertical Mouse,Technology,West,4,44.47,177.88,0.0,62.26,Corporate
+ORD-2025541,2025-06-28,Industrial Grade Extension Cord,Industrial,East,3,35.36,106.08,0.0,31.82,Small Business
+ORD-2025542,2025-11-20,Heavy Duty Storage Rack,Industrial,East,2,275.15,522.78,0.05,64.66,Consumer
+ORD-2025543,2025-01-26,Industrial Grade Extension Cord,Industrial,West,1,34.63,32.9,0.05,9.0,Corporate
+ORD-2025544,2025-02-12,Heavy Duty Storage Rack,Industrial,West,2,278.17,528.52,0.05,65.37,Consumer
+ORD-2025545,2025-09-04,Heavy-Duty Paper Shredder,Office Supplies,East,3,87.0,247.95,0.05,30.67,Consumer
+ORD-2025546,2025-02-06,Adjustable LED Floor Lamp,Furniture,East,1,64.44,58.0,0.1,14.18,Corporate
+ORD-2025547,2025-04-08,Modular Bookshelf,Furniture,East,1,196.11,166.69,0.15,18.63,Small Business
+ORD-2025548,2025-03-16,Heavy Duty Storage Rack,Industrial,West,2,287.22,574.44,0.0,86.17,Consumer
+ORD-2025549,2025-01-28,Dry Erase Whiteboard 36x24,Office Supplies,South,1,56.07,56.07,0.0,14.02,Corporate
+ORD-2025550,2025-08-19,Heavy Duty Storage Rack,Industrial,West,2,271.71,434.74,0.2,10.87,Corporate
+ORD-2025551,2025-10-08,Digital Caliper Stainless,Industrial,West,5,40.11,180.5,0.1,53.15,Consumer
+ORD-2025552,2025-01-31,Solid Oak Conference Table,Furniture,West,3,808.21,2060.94,0.15,24.25,Small Business
+ORD-2025553,2025-05-19,Executive Leather Chair,Furniture,West,5,444.89,1890.78,0.15,60.06,Small Business
+ORD-2025554,2025-12-30,Ultra HD 4K Monitor,Technology,West,1,350.02,297.52,0.15,33.25,Small Business
+ORD-2025555,2025-12-31,Smart Laptop Pro,Technology,South,2,1229.33,2458.66,0.0,368.8,Corporate
+ORD-2025556,2025-12-17,Modular Bookshelf,Furniture,West,8,190.02,1520.16,0.0,304.03,Small Business
+ORD-2025557,2025-05-12,Heavy Duty Storage Rack,Industrial,West,1,277.0,263.15,0.05,32.55,Consumer
+ORD-2025558,2025-07-15,Heavy-Duty Paper Shredder,Office Supplies,South,1,85.9,73.02,0.15,4.51,Small Business
+ORD-2025559,2025-03-09,Gel Pens Pack (24ct),Office Supplies,South,1,17.35,13.88,0.2,3.82,Consumer
+ORD-2025560,2025-08-09,Gel Pens Pack (24ct),Office Supplies,West,2,18.81,37.62,0.0,15.05,Consumer
+ORD-2025561,2025-06-12,Gel Pens Pack (24ct),Office Supplies,North,2,17.84,30.33,0.15,9.46,Small Business
+ORD-2025562,2025-11-23,Solid Oak Conference Table,Furniture,West,1,872.31,697.85,0.2,-17.45,Small Business
+ORD-2025563,2025-05-17,Dry Erase Whiteboard 36x24,Office Supplies,West,1,52.69,44.79,0.15,7.25,Consumer
+ORD-2025564,2025-09-15,Laser Distance Meter,Industrial,South,1,87.24,87.24,0.0,21.81,Corporate
+ORD-2025565,2025-01-08,Adjustable LED Floor Lamp,Furniture,South,3,62.18,158.56,0.15,33.58,Small Business
+ORD-2025566,2025-09-08,Adjustable LED Floor Lamp,Furniture,South,3,67.11,181.2,0.1,44.29,Corporate
+ORD-2025567,2025-11-10,Ergonomic Vertical Mouse,Technology,North,1,47.23,37.78,0.2,8.5,Small Business
+ORD-2025568,2025-07-22,Ergonomic Vertical Mouse,Technology,West,1,44.06,37.45,0.15,9.8,Corporate
+ORD-2025569,2025-05-27,Digital Caliper Stainless,Industrial,West,5,40.76,193.61,0.05,62.67,Corporate
+ORD-2025570,2025-11-27,Heavy Duty Storage Rack,Industrial,West,2,291.04,465.66,0.2,11.64,Consumer
+ORD-2025571,2025-07-21,Laser Distance Meter,Industrial,West,2,93.57,177.78,0.05,39.77,Corporate
+ORD-2025572,2025-02-16,Modular Bookshelf,Furniture,East,1,189.04,170.14,0.1,24.58,Consumer
+ORD-2025573,2025-09-26,Digital Caliper Stainless,Industrial,East,1,39.34,37.37,0.05,12.1,Consumer
+ORD-2025574,2025-03-16,Gel Pens Pack (24ct),Office Supplies,North,3,17.9,51.01,0.05,19.06,Consumer
+ORD-2025575,2025-03-09,Standing Desk Converter,Office Supplies,West,2,219.97,439.94,0.0,79.19,Small Business
+ORD-2025576,2025-09-10,Ergonomic Office Chair,Office Supplies,West,3,294.7,707.28,0.2,67.19,Corporate
+ORD-2025577,2025-11-14,Standing Desk Converter,Office Supplies,West,3,209.81,629.43,0.0,113.3,Small Business
+ORD-2025578,2025-10-23,Modular Bookshelf,Furniture,West,2,183.89,331.0,0.1,47.81,Small Business
+ORD-2025579,2025-12-05,Heavy-Duty Paper Shredder,Office Supplies,East,1,83.88,71.3,0.15,4.4,Consumer
+ORD-2025580,2025-08-07,Ultra HD 4K Monitor,Technology,West,3,342.1,821.04,0.2,61.58,Corporate
+ORD-2025581,2025-09-26,Gel Pens Pack (24ct),Office Supplies,East,3,18.23,54.69,0.0,21.88,Corporate
+ORD-2025582,2025-12-19,Adjustable LED Floor Lamp,Furniture,West,2,65.8,125.02,0.05,34.22,Small Business
+ORD-2025583,2025-10-16,Industrial Grade Extension Cord,Industrial,West,1,34.27,32.56,0.05,8.91,Consumer
+ORD-2025584,2025-03-02,Mechanical Gaming Keyboard,Technology,East,3,94.19,282.57,0.0,84.77,Corporate
+ORD-2025585,2025-06-29,Standing Desk Converter,Office Supplies,East,1,215.61,172.49,0.2,9.49,Corporate
+ORD-2025586,2025-01-04,USB-C Multiport Dock,Technology,West,3,75.87,227.61,0.0,63.73,Consumer
+ORD-2025587,2025-04-10,Modular Bookshelf,Furniture,West,3,189.65,483.61,0.15,54.05,Small Business
+ORD-2025588,2025-06-21,Industrial Grade Extension Cord,Industrial,East,3,34.35,82.44,0.2,14.43,Consumer
+ORD-2025589,2025-04-17,Modular Bookshelf,Furniture,East,1,199.19,159.35,0.2,11.95,Consumer
+ORD-2025590,2025-10-20,Digital Caliper Stainless,Industrial,North,3,39.26,117.78,0.0,41.22,Corporate
+ORD-2025591,2025-07-31,Mechanical Gaming Keyboard,Technology,West,4,93.12,297.98,0.2,52.15,Corporate
+ORD-2025592,2025-03-31,Ultra HD 4K Monitor,Technology,North,2,333.37,566.73,0.15,63.34,Small Business
+ORD-2025593,2025-03-20,Thermal Label Printer,Office Supplies,West,3,135.01,405.03,0.0,81.01,Small Business
+ORD-2025594,2025-12-13,Ergonomic Office Chair,Office Supplies,North,2,294.63,589.26,0.0,129.64,Small Business
+ORD-2025595,2025-11-01,Ultra HD 4K Monitor,Technology,East,3,358.59,1075.77,0.0,215.15,Small Business
+ORD-2025596,2025-06-09,Thermal Label Printer,Office Supplies,West,1,137.47,116.85,0.15,13.06,Small Business
+ORD-2025597,2025-03-02,Solid Oak Conference Table,Furniture,West,1,860.45,688.36,0.2,-17.21,Consumer
+ORD-2025598,2025-04-16,Filing Cabinet 3-Drawer,Furniture,West,5,133.95,535.8,0.2,29.47,Consumer
+ORD-2025599,2025-03-29,Ultra HD 4K Monitor,Technology,East,1,364.12,364.12,0.0,72.82,Consumer
+ORD-2025600,2025-07-16,Smart Laptop Pro,Technology,West,3,1246.95,3179.72,0.15,196.39,Small Business
+ORD-2025601,2025-07-02,Modular Bookshelf,Furniture,South,2,199.0,338.3,0.15,37.81,Small Business
+ORD-2025602,2025-03-09,USB-C Multiport Dock,Technology,West,1,76.08,64.67,0.15,12.4,Corporate
+ORD-2025603,2025-04-29,Ergonomic Office Chair,Office Supplies,East,3,315.12,850.82,0.1,139.91,Corporate
+ORD-2025604,2025-09-07,Smart Laptop Pro,Technology,West,2,1241.49,2234.68,0.1,211.05,Corporate
+ORD-2025605,2025-11-06,Dry Erase Whiteboard 36x24,Office Supplies,North,1,55.31,55.31,0.0,13.83,Corporate
+ORD-2025606,2025-09-30,Industrial Grade Extension Cord,Industrial,West,1,33.81,28.74,0.15,6.09,Corporate
+ORD-2025607,2025-02-03,Solid Oak Conference Table,Furniture,West,4,853.78,3244.36,0.05,239.06,Consumer
+ORD-2025608,2025-12-06,USB-C Multiport Dock,Technology,West,2,73.69,147.38,0.0,41.27,Corporate
+ORD-2025609,2025-04-01,Adjustable LED Floor Lamp,Furniture,North,2,67.08,120.74,0.1,29.51,Corporate
+ORD-2025610,2025-11-27,Smart Laptop Pro,Technology,South,5,1216.34,6081.7,0.0,912.25,Consumer
+ORD-2025611,2025-12-05,Heavy-Duty Paper Shredder,Office Supplies,West,2,82.41,148.34,0.1,14.01,Corporate
+ORD-2025612,2025-10-19,Adjustable LED Floor Lamp,Furniture,East,3,65.07,185.45,0.05,50.75,Corporate
+ORD-2025613,2025-02-01,Filing Cabinet 3-Drawer,Furniture,West,2,136.22,272.44,0.0,49.04,Corporate
+ORD-2025614,2025-01-16,Heavy-Duty Paper Shredder,Office Supplies,West,2,84.45,160.45,0.05,19.84,Small Business
+ORD-2025615,2025-03-30,Digital Caliper Stainless,Industrial,South,2,39.67,71.41,0.1,21.03,Small Business
+ORD-2025616,2025-03-06,Standing Desk Converter,Office Supplies,East,5,223.47,1061.48,0.05,163.13,Consumer
+ORD-2025617,2025-03-12,Industrial Grade Extension Cord,Industrial,West,2,36.12,61.4,0.15,13.0,Corporate
+ORD-2025618,2025-04-26,Heavy-Duty Paper Shredder,Office Supplies,North,1,85.01,72.26,0.15,4.46,Small Business
+ORD-2025619,2025-10-23,Executive Leather Chair,Furniture,North,1,449.17,449.17,0.0,53.9,Consumer
+ORD-2025620,2025-09-27,Adjustable LED Floor Lamp,Furniture,North,1,65.85,65.85,0.0,19.75,Small Business
+ORD-2025621,2025-11-21,Filing Cabinet 3-Drawer,Furniture,North,1,129.4,109.99,0.15,10.09,Small Business
+ORD-2025622,2025-06-19,Laser Distance Meter,Industrial,West,1,93.81,84.43,0.1,16.42,Small Business
+ORD-2025623,2025-10-16,Executive Leather Chair,Furniture,West,3,440.63,1057.51,0.2,-5.29,Consumer
+ORD-2025624,2025-05-27,Heavy Duty Storage Rack,Industrial,South,1,269.71,242.74,0.1,22.93,Corporate
+ORD-2025625,2025-05-12,USB-C Multiport Dock,Technology,North,3,76.19,205.71,0.1,46.17,Consumer
+ORD-2025626,2025-05-14,Heavy-Duty Paper Shredder,Office Supplies,South,1,81.47,77.4,0.05,9.57,Small Business
+ORD-2025627,2025-03-20,Industrial Grade Extension Cord,Industrial,West,2,35.48,67.41,0.05,18.45,Small Business
+ORD-2025628,2025-06-26,USB-C Multiport Dock,Technology,East,1,74.24,66.82,0.1,15.0,Corporate
+ORD-2025629,2025-09-30,Heavy-Duty Paper Shredder,Office Supplies,East,4,80.85,274.89,0.15,16.98,Corporate
+ORD-2025630,2025-12-14,Filing Cabinet 3-Drawer,Furniture,West,2,128.1,217.77,0.15,19.98,Small Business
+ORD-2025631,2025-11-30,Modular Bookshelf,Furniture,West,1,192.93,163.99,0.15,18.33,Corporate
+ORD-2025632,2025-12-12,Gel Pens Pack (24ct),Office Supplies,South,10,17.66,176.6,0.0,70.64,Small Business
+ORD-2025633,2025-01-05,Smart Laptop Pro,Technology,West,1,1193.51,1133.83,0.05,140.24,Small Business
+ORD-2025634,2025-05-26,Solid Oak Conference Table,Furniture,West,1,887.27,842.91,0.05,62.11,Small Business
+ORD-2025635,2025-11-23,USB-C Multiport Dock,Technology,West,3,74.07,177.77,0.2,27.55,Consumer
+ORD-2025636,2025-02-26,Thermal Label Printer,Office Supplies,East,3,145.92,393.98,0.1,56.91,Corporate
+ORD-2025637,2025-12-21,Modular Bookshelf,Furniture,East,1,187.88,187.88,0.0,37.58,Corporate
+ORD-2025638,2025-05-16,Heavy-Duty Paper Shredder,Office Supplies,North,3,82.27,209.79,0.15,12.96,Consumer
+ORD-2025639,2025-03-15,Digital Caliper Stainless,Industrial,North,1,38.29,30.63,0.2,6.89,Small Business
+ORD-2025640,2025-05-09,Heavy Duty Storage Rack,Industrial,West,3,292.12,744.91,0.15,46.01,Corporate
+ORD-2025641,2025-03-19,Adjustable LED Floor Lamp,Furniture,North,2,64.58,129.16,0.0,38.75,Small Business
+ORD-2025642,2025-04-26,Mechanical Gaming Keyboard,Technology,West,2,99.67,179.41,0.1,43.86,Small Business
+ORD-2025643,2025-06-05,Heavy Duty Storage Rack,Industrial,West,4,275.52,936.77,0.15,57.86,Corporate
+ORD-2025644,2025-11-28,Ergonomic Office Chair,Office Supplies,North,1,306.59,306.59,0.0,67.45,Small Business
+ORD-2025645,2025-12-19,Adjustable LED Floor Lamp,Furniture,North,1,61.98,61.98,0.0,18.59,Small Business
+ORD-2025646,2025-10-31,Heavy-Duty Paper Shredder,Office Supplies,West,2,83.37,133.39,0.2,3.33,Corporate
+ORD-2025647,2025-01-09,Ultra HD 4K Monitor,Technology,West,3,346.69,988.07,0.05,171.61,Small Business
+ORD-2025648,2025-12-08,Digital Caliper Stainless,Industrial,East,1,40.62,34.53,0.15,9.04,Small Business
+ORD-2025649,2025-01-24,Gel Pens Pack (24ct),Office Supplies,West,3,18.73,56.19,0.0,22.48,Corporate
+ORD-2025650,2025-11-09,Dry Erase Whiteboard 36x24,Office Supplies,East,2,56.65,107.63,0.05,24.07,Consumer
+ORD-2025651,2025-04-14,Laser Distance Meter,Industrial,West,8,90.68,689.17,0.05,154.16,Corporate
+ORD-2025652,2025-04-20,Ergonomic Vertical Mouse,Technology,West,1,43.39,36.88,0.15,9.65,Consumer
+ORD-2025653,2025-12-23,Filing Cabinet 3-Drawer,Furniture,South,1,124.8,99.84,0.2,5.49,Corporate
+ORD-2025654,2025-03-22,Mechanical Gaming Keyboard,Technology,West,1,91.1,72.88,0.2,12.75,Corporate
+ORD-2025655,2025-08-02,Digital Caliper Stainless,Industrial,West,1,39.8,37.81,0.05,12.24,Consumer
+ORD-2025656,2025-11-09,Ergonomic Vertical Mouse,Technology,South,1,46.47,41.82,0.1,12.31,Corporate
+ORD-2025657,2025-08-03,Ergonomic Vertical Mouse,Technology,West,10,47.15,377.2,0.2,84.87,Corporate
+ORD-2025658,2025-10-04,Heavy-Duty Paper Shredder,Office Supplies,West,1,87.52,74.39,0.15,4.59,Corporate
+ORD-2025659,2025-04-01,Gel Pens Pack (24ct),Office Supplies,West,2,17.48,31.46,0.1,10.84,Corporate
+ORD-2025660,2025-11-12,Heavy Duty Storage Rack,Industrial,North,1,287.99,244.79,0.15,15.12,Small Business
+ORD-2025661,2025-03-01,Wireless Noise-Cancelling Headphones,Technology,West,1,183.18,164.86,0.1,32.06,Consumer
+ORD-2025662,2025-02-26,Solid Oak Conference Table,Furniture,West,2,824.5,1566.55,0.05,115.43,Consumer
+ORD-2025663,2025-08-30,Heavy Duty Storage Rack,Industrial,West,5,278.74,1184.64,0.15,73.17,Corporate
+ORD-2025664,2025-03-11,Digital Caliper Stainless,Industrial,East,1,40.77,40.77,0.0,14.27,Corporate
+ORD-2025665,2025-03-11,Mechanical Gaming Keyboard,Technology,West,1,93.05,88.4,0.05,24.19,Small Business
+ORD-2025666,2025-11-10,Dry Erase Whiteboard 36x24,Office Supplies,West,4,54.94,208.77,0.05,46.7,Small Business
+ORD-2025667,2025-08-31,Laser Distance Meter,Industrial,North,1,88.45,70.76,0.2,8.85,Consumer
+ORD-2025668,2025-10-30,Dry Erase Whiteboard 36x24,Office Supplies,East,10,56.28,450.24,0.2,56.28,Consumer
+ORD-2025669,2025-08-06,Industrial Grade Extension Cord,Industrial,East,2,33.29,56.59,0.15,11.98,Consumer
+ORD-2025670,2025-03-09,Modular Bookshelf,Furniture,East,2,186.29,316.69,0.15,35.39,Small Business
+ORD-2025671,2025-10-26,Mechanical Gaming Keyboard,Technology,West,2,97.75,175.95,0.1,43.01,Small Business
+ORD-2025672,2025-08-26,USB-C Multiport Dock,Technology,West,3,75.23,203.12,0.1,45.59,Corporate
+ORD-2025673,2025-05-19,Gel Pens Pack (24ct),Office Supplies,North,5,18.03,81.14,0.1,27.95,Consumer
+ORD-2025674,2025-02-26,Laser Distance Meter,Industrial,West,1,90.53,90.53,0.0,22.63,Small Business
+ORD-2025675,2025-12-30,Ergonomic Office Chair,Office Supplies,West,1,309.33,247.46,0.2,23.51,Small Business
+ORD-2025676,2025-04-18,Thermal Label Printer,Office Supplies,East,2,133.76,240.77,0.1,34.78,Corporate
+ORD-2025677,2025-08-20,Heavy Duty Storage Rack,Industrial,West,2,274.18,438.69,0.2,10.97,Corporate
+ORD-2025678,2025-12-11,Wireless Noise-Cancelling Headphones,Technology,West,2,174.22,348.44,0.0,87.11,Consumer
+ORD-2025679,2025-03-26,Executive Leather Chair,Furniture,South,2,455.73,820.31,0.1,52.86,Corporate
+ORD-2025680,2025-12-16,Heavy-Duty Paper Shredder,Office Supplies,East,1,82.36,82.36,0.0,12.35,Consumer
+ORD-2025681,2025-09-24,Adjustable LED Floor Lamp,Furniture,East,2,66.08,105.73,0.2,18.5,Small Business
+ORD-2025682,2025-08-16,Laser Distance Meter,Industrial,South,4,87.54,315.14,0.1,61.28,Corporate
+ORD-2025683,2025-01-25,Thermal Label Printer,Office Supplies,East,5,142.97,643.37,0.1,92.93,Consumer
+ORD-2025684,2025-03-31,Ergonomic Office Chair,Office Supplies,West,10,312.31,2654.63,0.15,349.79,Corporate
+ORD-2025685,2025-07-09,Ergonomic Office Chair,Office Supplies,North,1,308.4,292.98,0.05,56.75,Small Business
+ORD-2025686,2025-06-04,Smart Laptop Pro,Technology,West,5,1251.34,5943.86,0.05,735.16,Consumer
+ORD-2025687,2025-10-07,Modular Bookshelf,Furniture,West,3,199.39,568.26,0.05,98.7,Small Business
+ORD-2025688,2025-08-15,Executive Leather Chair,Furniture,East,2,441.36,750.31,0.15,23.83,Small Business
+ORD-2025689,2025-04-23,Laser Distance Meter,Industrial,West,3,87.26,209.42,0.2,26.18,Consumer
+ORD-2025690,2025-05-23,Standing Desk Converter,Office Supplies,North,3,210.92,506.21,0.2,27.84,Corporate
+ORD-2025691,2025-04-10,Laser Distance Meter,Industrial,North,1,93.18,83.86,0.1,16.31,Corporate
+ORD-2025692,2025-07-10,Ultra HD 4K Monitor,Technology,West,8,363.1,2904.8,0.0,580.96,Consumer
+ORD-2025693,2025-08-16,Industrial Grade Extension Cord,Industrial,West,3,36.39,92.79,0.15,19.65,Consumer
+ORD-2025694,2025-10-28,Wireless Noise-Cancelling Headphones,Technology,West,10,180.46,1624.14,0.1,315.81,Consumer
+ORD-2025695,2025-10-30,Heavy Duty Storage Rack,Industrial,North,2,281.56,450.5,0.2,11.26,Consumer
+ORD-2025696,2025-04-13,Heavy-Duty Paper Shredder,Office Supplies,East,4,87.84,316.22,0.1,29.86,Corporate
+ORD-2025697,2025-10-14,Digital Caliper Stainless,Industrial,East,1,40.56,34.48,0.15,9.03,Consumer
+ORD-2025698,2025-12-01,Adjustable LED Floor Lamp,Furniture,South,1,62.53,56.28,0.1,13.76,Corporate
+ORD-2025699,2025-02-04,Filing Cabinet 3-Drawer,Furniture,West,3,129.69,389.07,0.0,70.03,Corporate
+ORD-2025700,2025-09-20,Ultra HD 4K Monitor,Technology,East,2,356.76,642.17,0.1,92.76,Consumer
+ORD-2025701,2025-01-28,Modular Bookshelf,Furniture,West,1,186.04,186.04,0.0,37.21,Small Business
+ORD-2025702,2025-04-10,Standing Desk Converter,Office Supplies,South,4,224.07,806.65,0.1,100.38,Corporate
+ORD-2025703,2025-12-17,Executive Leather Chair,Furniture,East,2,444.29,755.29,0.15,23.99,Corporate
+ORD-2025704,2025-06-24,Standing Desk Converter,Office Supplies,West,1,213.15,170.52,0.2,9.38,Small Business
+ORD-2025705,2025-12-20,Mechanical Gaming Keyboard,Technology,East,1,90.42,81.38,0.1,19.89,Corporate
+ORD-2025706,2025-12-20,Solid Oak Conference Table,Furniture,West,3,836.57,2258.74,0.1,100.39,Consumer
+ORD-2025707,2025-03-02,Ergonomic Office Chair,Office Supplies,South,1,324.91,276.17,0.15,36.39,Small Business
+ORD-2025708,2025-02-27,Smart Laptop Pro,Technology,East,1,1235.17,988.14,0.2,24.7,Small Business
+ORD-2025709,2025-01-31,Heavy Duty Storage Rack,Industrial,West,1,266.29,266.29,0.0,39.94,Consumer
+ORD-2025710,2025-11-05,Dry Erase Whiteboard 36x24,Office Supplies,West,2,52.75,94.95,0.1,18.46,Small Business
+ORD-2025711,2025-06-28,Solid Oak Conference Table,Furniture,East,4,872.38,2791.62,0.2,-69.79,Consumer
+ORD-2025712,2025-04-09,Solid Oak Conference Table,Furniture,East,1,850.36,722.81,0.15,8.5,Corporate
+ORD-2025713,2025-12-24,Heavy-Duty Paper Shredder,Office Supplies,West,2,83.98,159.56,0.05,19.73,Small Business
+ORD-2025714,2025-04-27,Heavy Duty Storage Rack,Industrial,West,1,269.81,242.83,0.1,22.93,Small Business
+ORD-2025715,2025-05-28,Smart Laptop Pro,Technology,East,2,1228.34,2088.18,0.15,128.98,Consumer
+ORD-2025716,2025-10-11,Laser Distance Meter,Industrial,West,1,93.07,79.11,0.15,12.8,Small Business
+ORD-2025717,2025-07-08,Standing Desk Converter,Office Supplies,West,2,223.88,447.76,0.0,80.6,Consumer
+ORD-2025718,2025-07-22,Heavy Duty Storage Rack,Industrial,West,8,275.48,1763.07,0.2,44.08,Corporate
+ORD-2025719,2025-03-04,Heavy-Duty Paper Shredder,Office Supplies,West,3,85.7,231.39,0.1,21.85,Small Business
+ORD-2025720,2025-07-24,Adjustable LED Floor Lamp,Furniture,West,1,64.71,64.71,0.0,19.41,Corporate
+ORD-2025721,2025-09-08,Digital Caliper Stainless,Industrial,West,3,41.32,105.37,0.15,27.58,Small Business
+ORD-2025722,2025-01-14,Heavy-Duty Paper Shredder,Office Supplies,West,3,81.57,244.71,0.0,36.71,Small Business
+ORD-2025723,2025-09-24,Industrial Grade Extension Cord,Industrial,West,2,35.02,56.03,0.2,9.8,Corporate
+ORD-2025724,2025-10-04,Smart Laptop Pro,Technology,East,2,1242.34,2111.98,0.15,130.45,Corporate
+ORD-2025725,2025-01-19,Wireless Noise-Cancelling Headphones,Technology,East,2,176.62,300.25,0.15,48.57,Corporate
+ORD-2025726,2025-02-26,Industrial Grade Extension Cord,Industrial,East,1,34.17,27.34,0.2,4.79,Corporate
+ORD-2025727,2025-11-12,Modular Bookshelf,Furniture,West,2,182.94,329.29,0.1,47.56,Corporate
+ORD-2025728,2025-10-26,USB-C Multiport Dock,Technology,West,2,78.69,133.77,0.15,25.65,Corporate
+ORD-2025729,2025-01-29,Ergonomic Office Chair,Office Supplies,South,5,296.53,1334.38,0.1,219.43,Consumer
+ORD-2025730,2025-06-22,Standing Desk Converter,Office Supplies,West,3,218.29,523.9,0.2,28.81,Corporate
+ORD-2025731,2025-05-17,USB-C Multiport Dock,Technology,West,2,74.18,118.69,0.2,18.4,Consumer
+ORD-2025732,2025-09-08,USB-C Multiport Dock,Technology,West,2,76.99,138.58,0.1,31.1,Consumer
+ORD-2025733,2025-11-11,Modular Bookshelf,Furniture,West,3,199.01,597.03,0.0,119.41,Small Business
+ORD-2025734,2025-04-20,Modular Bookshelf,Furniture,West,2,195.79,313.26,0.2,23.49,Small Business
+ORD-2025735,2025-02-17,Ergonomic Vertical Mouse,Technology,West,2,45.14,76.74,0.15,20.09,Consumer
+ORD-2025736,2025-06-27,USB-C Multiport Dock,Technology,East,3,73.6,187.68,0.15,35.99,Corporate
+ORD-2025737,2025-05-09,Digital Caliper Stainless,Industrial,North,1,40.0,34.0,0.15,8.9,Corporate
+ORD-2025738,2025-11-23,Heavy Duty Storage Rack,Industrial,West,1,270.21,243.19,0.1,22.97,Corporate
+ORD-2025739,2025-07-30,Executive Leather Chair,Furniture,East,1,434.73,347.78,0.2,-1.74,Consumer
+ORD-2025740,2025-07-27,Standing Desk Converter,Office Supplies,West,1,227.2,193.12,0.15,17.72,Corporate
+ORD-2025741,2025-10-14,Industrial Grade Extension Cord,Industrial,West,1,33.35,30.02,0.1,7.34,Small Business
+ORD-2025742,2025-10-09,Gel Pens Pack (24ct),Office Supplies,North,1,18.65,18.65,0.0,7.46,Corporate
+ORD-2025743,2025-11-05,Executive Leather Chair,Furniture,West,5,445.36,2115.46,0.05,198.19,Consumer
+ORD-2025744,2025-02-27,Ergonomic Vertical Mouse,Technology,East,2,46.23,83.21,0.1,24.5,Corporate
+ORD-2025745,2025-10-27,Digital Caliper Stainless,Industrial,West,1,38.86,34.97,0.1,10.3,Corporate
+ORD-2025746,2025-07-29,Filing Cabinet 3-Drawer,Furniture,North,5,127.61,542.34,0.15,49.77,Corporate
+ORD-2025747,2025-12-16,Thermal Label Printer,Office Supplies,West,3,144.5,433.5,0.0,86.7,Small Business
+ORD-2025748,2025-11-07,USB-C Multiport Dock,Technology,North,1,75.4,67.86,0.1,15.23,Small Business
+ORD-2025749,2025-12-25,Executive Leather Chair,Furniture,South,5,445.18,2003.31,0.1,129.1,Corporate
+ORD-2025750,2025-02-16,Thermal Label Printer,Office Supplies,East,2,137.44,233.65,0.15,26.11,Consumer
+ORD-2025751,2025-05-21,Mechanical Gaming Keyboard,Technology,West,1,94.26,94.26,0.0,28.28,Consumer
+ORD-2025752,2025-12-24,Filing Cabinet 3-Drawer,Furniture,West,3,134.07,361.99,0.1,45.05,Corporate
+ORD-2025753,2025-12-22,Smart Laptop Pro,Technology,South,1,1188.08,1069.27,0.1,100.99,Corporate
+ORD-2025754,2025-10-22,Smart Laptop Pro,Technology,West,3,1232.11,3511.51,0.05,434.32,Small Business
+ORD-2025755,2025-12-18,Laser Distance Meter,Industrial,West,1,91.69,82.52,0.1,16.05,Corporate
+ORD-2025756,2025-04-12,Mechanical Gaming Keyboard,Technology,West,4,99.23,317.54,0.2,55.57,Consumer
+ORD-2025757,2025-01-11,Ergonomic Vertical Mouse,Technology,South,1,45.91,43.61,0.05,14.12,Consumer
+ORD-2025758,2025-07-25,Laser Distance Meter,Industrial,West,2,94.03,188.06,0.0,47.02,Consumer
+ORD-2025759,2025-09-27,Industrial Grade Extension Cord,Industrial,West,3,33.92,91.58,0.1,22.39,Corporate
+ORD-2025760,2025-09-11,Digital Caliper Stainless,Industrial,West,10,39.13,371.74,0.05,120.33,Corporate
+ORD-2025761,2025-04-03,Digital Caliper Stainless,Industrial,West,1,40.47,38.45,0.05,12.45,Corporate
+ORD-2025762,2025-10-26,Heavy Duty Storage Rack,Industrial,North,8,277.13,2106.19,0.05,260.5,Small Business
+ORD-2025763,2025-07-16,Laser Distance Meter,Industrial,West,1,88.5,84.08,0.05,18.81,Corporate
+ORD-2025764,2025-07-01,Smart Laptop Pro,Technology,East,8,1220.55,9276.18,0.05,1147.32,Small Business
+ORD-2025765,2025-01-22,Thermal Label Printer,Office Supplies,South,4,134.85,485.46,0.1,70.12,Small Business
+ORD-2025766,2025-09-29,Digital Caliper Stainless,Industrial,West,1,38.51,34.66,0.1,10.21,Small Business
+ORD-2025767,2025-07-04,Laser Distance Meter,Industrial,East,1,88.32,83.9,0.05,18.77,Corporate
+ORD-2025768,2025-09-09,Dry Erase Whiteboard 36x24,Office Supplies,West,1,53.51,53.51,0.0,13.38,Corporate
+ORD-2025769,2025-05-14,Gel Pens Pack (24ct),Office Supplies,West,5,17.17,77.27,0.1,26.62,Small Business
+ORD-2025770,2025-10-15,Industrial Grade Extension Cord,Industrial,West,3,33.77,91.18,0.1,22.29,Consumer
+ORD-2025771,2025-04-15,Solid Oak Conference Table,Furniture,South,2,863.87,1641.35,0.05,120.94,Small Business
+ORD-2025772,2025-01-03,Heavy-Duty Paper Shredder,Office Supplies,West,2,81.55,146.79,0.1,13.86,Consumer
+ORD-2025773,2025-05-26,Mechanical Gaming Keyboard,Technology,East,4,91.71,366.84,0.0,110.05,Corporate
+ORD-2025774,2025-12-29,Industrial Grade Extension Cord,Industrial,East,8,35.55,241.74,0.15,51.19,Corporate
+ORD-2025775,2025-10-19,Ergonomic Office Chair,Office Supplies,East,4,317.56,1016.19,0.2,96.54,Small Business
+ORD-2025776,2025-07-15,Mechanical Gaming Keyboard,Technology,West,8,98.47,787.76,0.0,236.33,Consumer
+ORD-2025777,2025-04-17,Heavy-Duty Paper Shredder,Office Supplies,West,3,86.31,258.93,0.0,38.84,Corporate
+ORD-2025778,2025-09-09,Laser Distance Meter,Industrial,West,1,88.81,84.37,0.05,18.87,Corporate
+ORD-2025779,2025-08-17,Industrial Grade Extension Cord,Industrial,East,3,36.09,86.62,0.2,15.16,Consumer
+ORD-2025780,2025-08-11,Heavy Duty Storage Rack,Industrial,North,3,284.13,809.77,0.05,100.16,Corporate
+ORD-2025781,2025-09-27,Ultra HD 4K Monitor,Technology,West,2,337.7,641.63,0.05,111.44,Small Business
+ORD-2025782,2025-06-03,Dry Erase Whiteboard 36x24,Office Supplies,West,1,52.67,52.67,0.0,13.17,Small Business
+ORD-2025783,2025-02-25,Industrial Grade Extension Cord,Industrial,North,4,34.49,110.37,0.2,19.31,Consumer
+ORD-2025784,2025-09-15,Smart Laptop Pro,Technology,West,1,1187.15,1187.15,0.0,178.07,Corporate
+ORD-2025785,2025-12-27,Modular Bookshelf,Furniture,West,4,186.99,710.56,0.05,123.41,Consumer
+ORD-2025786,2025-04-05,USB-C Multiport Dock,Technology,East,2,71.29,142.58,0.0,39.92,Consumer
+ORD-2025787,2025-03-29,Industrial Grade Extension Cord,Industrial,West,3,34.95,83.88,0.2,14.68,Small Business
+ORD-2025788,2025-07-04,Laser Distance Meter,Industrial,West,1,86.51,86.51,0.0,21.63,Small Business
+ORD-2025789,2025-04-07,Wireless Noise-Cancelling Headphones,Technology,West,2,182.27,291.63,0.2,36.45,Consumer
+ORD-2025790,2025-02-14,Adjustable LED Floor Lamp,Furniture,East,1,62.74,53.33,0.15,11.29,Corporate
+ORD-2025791,2025-08-30,Mechanical Gaming Keyboard,Technology,West,2,98.17,196.34,0.0,58.9,Corporate
+ORD-2025792,2025-01-05,USB-C Multiport Dock,Technology,West,3,75.72,181.73,0.2,28.17,Corporate
+ORD-2025793,2025-01-19,Industrial Grade Extension Cord,Industrial,West,5,36.42,154.79,0.15,32.78,Consumer
+ORD-2025794,2025-02-01,Mechanical Gaming Keyboard,Technology,East,3,98.7,296.1,0.0,88.83,Corporate
+ORD-2025795,2025-11-15,Adjustable LED Floor Lamp,Furniture,West,1,63.0,56.7,0.1,13.86,Corporate
+ORD-2025796,2025-04-29,Dry Erase Whiteboard 36x24,Office Supplies,East,3,54.83,148.04,0.1,28.79,Small Business
+ORD-2025797,2025-12-31,Industrial Grade Extension Cord,Industrial,East,4,35.43,127.55,0.1,31.18,Small Business
+ORD-2025798,2025-02-14,Digital Caliper Stainless,Industrial,West,3,38.4,97.92,0.15,25.63,Corporate
+ORD-2025799,2025-06-05,Ergonomic Office Chair,Office Supplies,North,1,315.48,299.71,0.05,58.05,Small Business
+ORD-2025800,2025-01-17,Ultra HD 4K Monitor,Technology,West,1,352.17,299.34,0.15,33.46,Corporate
+ORD-2025801,2025-06-24,Executive Leather Chair,Furniture,East,4,454.69,1818.76,0.0,218.25,Small Business
+ORD-2025802,2025-01-26,Industrial Grade Extension Cord,Industrial,North,3,36.25,108.75,0.0,32.62,Small Business
+ORD-2025803,2025-01-22,Wireless Noise-Cancelling Headphones,Technology,North,1,176.26,149.82,0.15,24.24,Small Business
+ORD-2025804,2025-09-13,Wireless Noise-Cancelling Headphones,Technology,West,1,186.27,158.33,0.15,25.61,Corporate
+ORD-2025805,2025-01-04,Heavy-Duty Paper Shredder,Office Supplies,West,1,83.01,70.56,0.15,4.36,Corporate
+ORD-2025806,2025-11-19,Ergonomic Office Chair,Office Supplies,East,2,322.96,549.03,0.15,72.34,Small Business
+ORD-2025807,2025-12-16,Executive Leather Chair,Furniture,West,1,463.78,463.78,0.0,55.65,Consumer
+ORD-2025808,2025-06-23,Adjustable LED Floor Lamp,Furniture,South,1,67.75,64.36,0.05,17.61,Small Business
+ORD-2025809,2025-01-30,Adjustable LED Floor Lamp,Furniture,West,4,66.44,239.18,0.1,58.47,Corporate
+ORD-2025810,2025-01-05,Filing Cabinet 3-Drawer,Furniture,South,1,130.58,104.46,0.2,5.74,Small Business
+ORD-2025811,2025-08-15,Adjustable LED Floor Lamp,Furniture,East,2,64.28,122.13,0.05,33.42,Small Business
+ORD-2025812,2025-10-04,Solid Oak Conference Table,Furniture,North,1,861.53,861.53,0.0,86.15,Consumer
+ORD-2025813,2025-10-04,Solid Oak Conference Table,Furniture,East,1,812.6,731.34,0.1,32.5,Corporate
+ORD-2025814,2025-11-18,Executive Leather Chair,Furniture,North,2,453.26,906.52,0.0,108.78,Corporate
+ORD-2025815,2025-06-23,Gel Pens Pack (24ct),Office Supplies,West,1,18.51,14.81,0.2,4.07,Small Business
+ORD-2025816,2025-03-13,Digital Caliper Stainless,Industrial,West,2,41.29,74.32,0.1,21.88,Corporate
+ORD-2025817,2025-02-20,Gel Pens Pack (24ct),Office Supplies,East,1,18.7,15.89,0.15,4.95,Consumer
+ORD-2025818,2025-08-17,Ultra HD 4K Monitor,Technology,West,2,341.73,580.94,0.15,64.93,Small Business
+ORD-2025819,2025-08-05,Industrial Grade Extension Cord,Industrial,East,1,35.74,33.95,0.05,9.29,Small Business
+ORD-2025820,2025-09-20,USB-C Multiport Dock,Technology,East,1,75.44,75.44,0.0,21.12,Small Business
+ORD-2025821,2025-07-29,Smart Laptop Pro,Technology,East,1,1184.58,1066.12,0.1,100.69,Corporate
+ORD-2025822,2025-05-31,Heavy Duty Storage Rack,Industrial,West,2,267.36,481.25,0.1,45.45,Corporate
+ORD-2025823,2025-04-21,Gel Pens Pack (24ct),Office Supplies,West,2,17.22,34.44,0.0,13.78,Corporate
+ORD-2025824,2025-09-04,Filing Cabinet 3-Drawer,Furniture,West,2,132.86,212.58,0.2,11.69,Consumer
+ORD-2025825,2025-03-12,Industrial Grade Extension Cord,Industrial,West,3,33.56,80.54,0.2,14.09,Small Business
+ORD-2025826,2025-11-16,Industrial Grade Extension Cord,Industrial,South,1,35.6,30.26,0.15,6.41,Small Business
+ORD-2025827,2025-05-23,Wireless Noise-Cancelling Headphones,Technology,North,3,181.1,543.3,0.0,135.82,Small Business
+ORD-2025828,2025-10-14,Wireless Noise-Cancelling Headphones,Technology,North,3,180.05,540.15,0.0,135.04,Consumer
+ORD-2025829,2025-12-04,Standing Desk Converter,Office Supplies,East,3,228.53,582.75,0.15,53.48,Consumer
+ORD-2025830,2025-10-01,Adjustable LED Floor Lamp,Furniture,North,1,62.92,62.92,0.0,18.88,Small Business
+ORD-2025831,2025-06-12,Laser Distance Meter,Industrial,West,1,87.01,82.66,0.05,18.49,Consumer
+ORD-2025832,2025-05-11,Wireless Noise-Cancelling Headphones,Technology,East,1,188.3,178.88,0.05,40.01,Consumer
+ORD-2025833,2025-01-30,Adjustable LED Floor Lamp,Furniture,West,2,63.86,108.56,0.15,22.99,Consumer
+ORD-2025834,2025-01-27,Ergonomic Office Chair,Office Supplies,South,2,298.07,596.14,0.0,131.15,Corporate
+ORD-2025835,2025-08-26,Heavy Duty Storage Rack,Industrial,West,3,291.58,874.74,0.0,131.21,Corporate
+ORD-2025836,2025-10-11,Wireless Noise-Cancelling Headphones,Technology,West,2,172.51,276.02,0.2,34.5,Consumer
+ORD-2025837,2025-03-14,Filing Cabinet 3-Drawer,Furniture,South,2,135.35,230.09,0.15,21.11,Consumer
+ORD-2025838,2025-01-01,Laser Distance Meter,Industrial,West,5,89.84,359.36,0.2,44.92,Corporate
+ORD-2025839,2025-12-15,Laser Distance Meter,Industrial,South,1,92.15,73.72,0.2,9.21,Consumer
+ORD-2025840,2025-06-03,Mechanical Gaming Keyboard,Technology,North,10,98.59,936.61,0.05,256.34,Small Business
+ORD-2025841,2025-09-16,Modular Bookshelf,Furniture,East,1,193.08,173.77,0.1,25.1,Corporate
+ORD-2025842,2025-04-18,Laser Distance Meter,Industrial,East,5,90.98,454.9,0.0,113.72,Consumer
+ORD-2025843,2025-12-11,Heavy-Duty Paper Shredder,Office Supplies,West,4,86.27,345.08,0.0,51.76,Small Business
+ORD-2025844,2025-01-16,Heavy Duty Storage Rack,Industrial,East,3,276.83,830.49,0.0,124.57,Consumer
+ORD-2025845,2025-08-25,Solid Oak Conference Table,Furniture,West,3,871.97,2354.32,0.1,104.64,Consumer
+ORD-2025846,2025-02-16,Solid Oak Conference Table,Furniture,South,1,849.39,679.51,0.2,-16.99,Consumer
+ORD-2025847,2025-01-04,Gel Pens Pack (24ct),Office Supplies,West,1,18.0,17.1,0.05,6.39,Small Business
+ORD-2025848,2025-04-10,Standing Desk Converter,Office Supplies,East,5,227.82,911.28,0.2,50.12,Small Business
+ORD-2025849,2025-05-21,Gel Pens Pack (24ct),Office Supplies,North,2,17.56,28.1,0.2,7.73,Corporate
+ORD-2025850,2025-01-02,Heavy Duty Storage Rack,Industrial,East,1,285.04,242.28,0.15,14.96,Corporate
+ORD-2025851,2025-07-05,USB-C Multiport Dock,Technology,West,5,75.24,338.58,0.1,75.99,Consumer
+ORD-2025852,2025-07-20,Thermal Label Printer,Office Supplies,North,10,136.16,1157.36,0.15,129.35,Consumer
+ORD-2025853,2025-05-08,Ergonomic Office Chair,Office Supplies,West,3,297.5,758.62,0.15,99.96,Corporate
+ORD-2025854,2025-01-13,Modular Bookshelf,Furniture,West,1,186.98,186.98,0.0,37.4,Corporate
+ORD-2025855,2025-09-24,Standing Desk Converter,Office Supplies,West,2,210.88,421.76,0.0,75.92,Consumer
+ORD-2025856,2025-07-13,Executive Leather Chair,Furniture,West,4,429.97,1375.9,0.2,-6.88,Small Business
+ORD-2025857,2025-08-10,Smart Laptop Pro,Technology,East,2,1151.5,1957.55,0.15,120.91,Consumer
+ORD-2025858,2025-11-03,Mechanical Gaming Keyboard,Technology,West,3,91.21,273.63,0.0,82.09,Corporate
+ORD-2025859,2025-09-22,Filing Cabinet 3-Drawer,Furniture,West,1,132.77,106.22,0.2,5.84,Consumer
+ORD-2025860,2025-10-21,Gel Pens Pack (24ct),Office Supplies,West,2,18.22,34.62,0.05,12.94,Consumer
+ORD-2025861,2025-03-12,Smart Laptop Pro,Technology,West,2,1255.17,2259.31,0.1,213.38,Corporate
+ORD-2025862,2025-10-26,Ergonomic Office Chair,Office Supplies,West,1,305.93,305.93,0.0,67.3,Small Business
+ORD-2025863,2025-10-28,Standing Desk Converter,Office Supplies,South,4,218.29,829.5,0.05,127.48,Consumer
+ORD-2025864,2025-11-24,Standing Desk Converter,Office Supplies,West,2,224.22,381.17,0.15,34.98,Small Business
+ORD-2025865,2025-12-21,Filing Cabinet 3-Drawer,Furniture,East,1,129.41,129.41,0.0,23.29,Corporate
+ORD-2025866,2025-04-23,USB-C Multiport Dock,Technology,South,1,74.86,67.37,0.1,15.12,Small Business
+ORD-2025867,2025-07-12,Heavy-Duty Paper Shredder,Office Supplies,East,1,83.79,67.03,0.2,1.68,Consumer
+ORD-2025868,2025-03-14,Adjustable LED Floor Lamp,Furniture,South,2,68.09,129.37,0.05,35.41,Consumer
+ORD-2025869,2025-05-26,Ergonomic Office Chair,Office Supplies,East,2,300.03,600.06,0.0,132.01,Consumer
+ORD-2025870,2025-05-15,Smart Laptop Pro,Technology,West,4,1153.32,4382.62,0.05,542.06,Corporate
+ORD-2025871,2025-08-22,Thermal Label Printer,Office Supplies,East,8,146.97,999.4,0.15,111.7,Small Business
+ORD-2025872,2025-02-03,Wireless Noise-Cancelling Headphones,Technology,East,2,177.74,284.38,0.2,35.55,Corporate
+ORD-2025873,2025-11-22,Standing Desk Converter,Office Supplies,East,1,214.44,193.0,0.1,24.02,Consumer
+ORD-2025874,2025-09-18,Digital Caliper Stainless,Industrial,North,3,38.67,98.61,0.15,25.81,Small Business
+ORD-2025875,2025-09-18,Adjustable LED Floor Lamp,Furniture,West,3,65.17,166.18,0.15,35.19,Small Business
+ORD-2025876,2025-09-11,Laser Distance Meter,Industrial,West,3,87.36,248.98,0.05,55.69,Corporate
+ORD-2025877,2025-05-01,Digital Caliper Stainless,Industrial,East,1,41.37,37.23,0.1,10.96,Small Business
+ORD-2025878,2025-02-13,Standing Desk Converter,Office Supplies,East,2,219.24,350.78,0.2,19.29,Corporate
+ORD-2025879,2025-08-07,Industrial Grade Extension Cord,Industrial,West,1,34.59,32.86,0.05,8.99,Corporate
+ORD-2025880,2025-04-30,Executive Leather Chair,Furniture,East,2,452.1,904.2,0.0,108.5,Corporate
+ORD-2025881,2025-04-27,Smart Laptop Pro,Technology,West,2,1180.05,2124.09,0.1,200.61,Corporate
+ORD-2025882,2025-06-04,Solid Oak Conference Table,Furniture,South,3,885.05,2655.15,0.0,265.52,Corporate
+ORD-2025883,2025-05-25,Adjustable LED Floor Lamp,Furniture,West,1,66.0,62.7,0.05,17.16,Corporate
+ORD-2025884,2025-04-27,Gel Pens Pack (24ct),Office Supplies,South,4,18.46,62.76,0.15,19.57,Corporate
+ORD-2025885,2025-02-13,Solid Oak Conference Table,Furniture,West,1,845.75,676.6,0.2,-16.91,Consumer
+ORD-2025886,2025-07-11,Dry Erase Whiteboard 36x24,Office Supplies,West,3,55.0,148.5,0.1,28.88,Corporate
+ORD-2025887,2025-04-26,Industrial Grade Extension Cord,Industrial,West,1,35.3,28.24,0.2,4.94,Consumer
+ORD-2025888,2025-03-13,Thermal Label Printer,Office Supplies,East,2,140.48,266.91,0.05,46.36,Corporate
+ORD-2025889,2025-02-25,Filing Cabinet 3-Drawer,Furniture,West,1,132.27,125.66,0.05,19.31,Consumer
+ORD-2025890,2025-12-19,Heavy Duty Storage Rack,Industrial,West,5,276.81,1314.85,0.05,162.63,Consumer
+ORD-2025891,2025-05-30,Mechanical Gaming Keyboard,Technology,West,1,93.35,79.35,0.15,16.8,Corporate
+ORD-2025892,2025-03-22,Wireless Noise-Cancelling Headphones,Technology,East,8,186.58,1418.01,0.05,317.19,Consumer
+ORD-2025893,2025-06-08,Industrial Grade Extension Cord,Industrial,South,2,35.01,59.52,0.15,12.6,Corporate
+ORD-2025894,2025-04-14,Wireless Noise-Cancelling Headphones,Technology,West,2,185.54,296.86,0.2,37.11,Corporate
+ORD-2025895,2025-10-19,Industrial Grade Extension Cord,Industrial,West,1,36.33,30.88,0.15,6.54,Corporate
+ORD-2025896,2025-12-25,Adjustable LED Floor Lamp,Furniture,East,3,64.56,164.63,0.15,34.86,Small Business
+ORD-2025897,2025-04-04,Mechanical Gaming Keyboard,Technology,West,4,92.85,297.12,0.2,52.0,Corporate
+ORD-2025898,2025-12-08,USB-C Multiport Dock,Technology,South,3,72.16,194.83,0.1,43.73,Consumer
+ORD-2025899,2025-02-23,Adjustable LED Floor Lamp,Furniture,West,1,62.04,62.04,0.0,18.61,Consumer
+ORD-2025900,2025-11-24,Industrial Grade Extension Cord,Industrial,East,2,33.29,66.58,0.0,19.97,Small Business
+ORD-2025901,2025-03-11,Adjustable LED Floor Lamp,Furniture,East,3,66.39,169.29,0.15,35.85,Consumer
+ORD-2025902,2025-08-30,Solid Oak Conference Table,Furniture,South,1,818.05,695.34,0.15,8.18,Consumer
+ORD-2025903,2025-02-09,USB-C Multiport Dock,Technology,West,2,72.88,145.76,0.0,40.81,Small Business
+ORD-2025904,2025-09-30,Heavy-Duty Paper Shredder,Office Supplies,North,3,86.84,260.52,0.0,39.08,Corporate
+ORD-2025905,2025-12-20,Adjustable LED Floor Lamp,Furniture,East,2,63.06,119.81,0.05,32.79,Corporate
+ORD-2025906,2025-05-03,Standing Desk Converter,Office Supplies,North,1,213.23,213.23,0.0,38.38,Consumer
+ORD-2025907,2025-02-19,Gel Pens Pack (24ct),Office Supplies,West,2,18.57,33.43,0.1,11.52,Small Business
+ORD-2025908,2025-11-17,Dry Erase Whiteboard 36x24,Office Supplies,South,2,53.53,107.06,0.0,26.77,Corporate
+ORD-2025909,2025-06-15,Standing Desk Converter,Office Supplies,East,1,213.84,192.46,0.1,23.95,Small Business
+ORD-2025910,2025-11-16,Executive Leather Chair,Furniture,North,3,449.98,1349.94,0.0,161.99,Small Business
+ORD-2025911,2025-10-02,Thermal Label Printer,Office Supplies,North,3,142.49,406.1,0.05,70.53,Corporate
+ORD-2025912,2025-03-31,Adjustable LED Floor Lamp,Furniture,West,3,65.55,167.15,0.15,35.4,Small Business
+ORD-2025913,2025-11-24,Dry Erase Whiteboard 36x24,Office Supplies,West,3,57.18,154.39,0.1,30.02,Consumer
+ORD-2025914,2025-08-08,Dry Erase Whiteboard 36x24,Office Supplies,West,2,53.88,102.37,0.05,22.9,Corporate
+ORD-2025915,2025-04-15,Wireless Noise-Cancelling Headphones,Technology,West,1,182.58,182.58,0.0,45.65,Small Business
+ORD-2025916,2025-08-01,Executive Leather Chair,Furniture,South,1,451.77,429.18,0.05,40.21,Small Business
+ORD-2025917,2025-12-23,Dry Erase Whiteboard 36x24,Office Supplies,East,3,52.61,134.16,0.15,21.7,Consumer
+ORD-2025918,2025-04-09,USB-C Multiport Dock,Technology,East,1,75.37,71.6,0.05,18.16,Consumer
+ORD-2025919,2025-09-17,Mechanical Gaming Keyboard,Technology,West,3,92.58,263.85,0.05,72.21,Small Business
+ORD-2025920,2025-05-08,Modular Bookshelf,Furniture,East,4,189.64,682.7,0.1,98.61,Corporate
+ORD-2025921,2025-07-13,Heavy-Duty Paper Shredder,Office Supplies,West,2,82.07,139.52,0.15,8.62,Consumer
+ORD-2025922,2025-07-15,Heavy Duty Storage Rack,Industrial,East,3,273.2,696.66,0.15,43.03,Corporate
+ORD-2025923,2025-08-21,Adjustable LED Floor Lamp,Furniture,West,1,64.8,61.56,0.05,16.85,Consumer
+ORD-2025924,2025-01-03,Ergonomic Vertical Mouse,Technology,East,5,47.12,212.04,0.1,62.43,Corporate
+ORD-2025925,2025-09-08,Filing Cabinet 3-Drawer,Furniture,East,5,128.5,514.0,0.2,28.27,Consumer
+ORD-2025926,2025-04-10,Laser Distance Meter,Industrial,East,3,91.77,234.01,0.15,37.85,Corporate
+ORD-2025927,2025-05-07,Heavy-Duty Paper Shredder,Office Supplies,North,3,80.99,230.82,0.05,28.55,Corporate
+ORD-2025928,2025-11-06,Digital Caliper Stainless,Industrial,West,2,40.65,77.23,0.05,25.0,Consumer
+ORD-2025929,2025-03-01,USB-C Multiport Dock,Technology,West,2,78.01,124.82,0.2,19.35,Consumer
+ORD-2025930,2025-08-05,Heavy-Duty Paper Shredder,Office Supplies,East,2,88.29,141.26,0.2,3.53,Corporate
+ORD-2025931,2025-07-30,Smart Laptop Pro,Technology,East,1,1229.79,1106.81,0.1,104.53,Consumer
+ORD-2025932,2025-03-28,Heavy Duty Storage Rack,Industrial,West,3,280.7,757.89,0.1,71.58,Small Business
+ORD-2025933,2025-08-09,Ergonomic Office Chair,Office Supplies,West,1,309.58,247.66,0.2,23.53,Consumer
+ORD-2025934,2025-08-19,Ergonomic Office Chair,Office Supplies,West,1,318.03,286.23,0.1,47.07,Corporate
+ORD-2025935,2025-08-14,USB-C Multiport Dock,Technology,West,1,72.19,72.19,0.0,20.21,Corporate
+ORD-2025936,2025-01-16,Heavy-Duty Paper Shredder,Office Supplies,East,1,87.14,87.14,0.0,13.07,Small Business
+ORD-2025937,2025-10-26,Smart Laptop Pro,Technology,East,3,1258.43,3397.76,0.1,320.9,Corporate
+ORD-2025938,2025-08-31,Filing Cabinet 3-Drawer,Furniture,West,3,127.96,345.49,0.1,42.99,Consumer
+ORD-2025939,2025-07-04,Industrial Grade Extension Cord,Industrial,North,4,33.26,113.08,0.15,23.95,Small Business
+ORD-2025940,2025-03-13,Ergonomic Vertical Mouse,Technology,East,3,46.42,125.33,0.1,36.9,Corporate
+ORD-2025941,2025-11-13,Industrial Grade Extension Cord,Industrial,West,3,36.55,98.68,0.1,24.12,Consumer
+ORD-2025942,2025-11-21,Executive Leather Chair,Furniture,East,2,460.76,921.52,0.0,110.58,Corporate
+ORD-2025943,2025-08-08,Heavy Duty Storage Rack,Industrial,West,1,270.01,216.01,0.2,5.4,Small Business
+ORD-2025944,2025-09-16,Wireless Noise-Cancelling Headphones,Technology,West,3,180.88,461.24,0.15,74.61,Consumer
+ORD-2025945,2025-08-17,Mechanical Gaming Keyboard,Technology,West,1,99.22,99.22,0.0,29.77,Consumer
+ORD-2025946,2025-08-11,Wireless Noise-Cancelling Headphones,Technology,East,1,175.64,149.29,0.15,24.15,Small Business
+ORD-2025947,2025-03-05,Dry Erase Whiteboard 36x24,Office Supplies,West,3,57.05,136.92,0.2,17.11,Small Business
+ORD-2025948,2025-02-03,Adjustable LED Floor Lamp,Furniture,West,8,64.59,490.88,0.05,134.35,Consumer
+ORD-2025949,2025-05-13,Ultra HD 4K Monitor,Technology,West,1,353.23,335.57,0.05,58.28,Small Business
+ORD-2025950,2025-03-01,Solid Oak Conference Table,Furniture,East,1,812.76,650.21,0.2,-16.26,Consumer
+ORD-2025951,2025-07-18,Laser Distance Meter,Industrial,East,1,91.47,73.18,0.2,9.15,Consumer
+ORD-2025952,2025-02-24,Heavy Duty Storage Rack,Industrial,West,4,274.31,1042.38,0.05,128.93,Corporate
+ORD-2025953,2025-12-15,Digital Caliper Stainless,Industrial,West,3,41.21,123.63,0.0,43.27,Small Business
+ORD-2025954,2025-06-13,Filing Cabinet 3-Drawer,Furniture,West,4,130.96,497.65,0.05,76.48,Corporate
+ORD-2025955,2025-05-30,Heavy Duty Storage Rack,Industrial,West,3,289.75,825.79,0.05,102.14,Small Business
+ORD-2025956,2025-01-27,Heavy-Duty Paper Shredder,Office Supplies,West,4,88.51,336.34,0.05,41.6,Consumer
+ORD-2025957,2025-10-08,Laser Distance Meter,Industrial,West,3,89.02,213.65,0.2,26.71,Small Business
+ORD-2025958,2025-05-25,Solid Oak Conference Table,Furniture,West,1,874.76,874.76,0.0,87.48,Small Business
+ORD-2025959,2025-06-05,Digital Caliper Stainless,Industrial,South,5,38.84,184.49,0.05,59.72,Small Business
+ORD-2025960,2025-11-30,Ultra HD 4K Monitor,Technology,North,1,365.76,310.9,0.15,34.75,Small Business
+ORD-2025961,2025-03-28,Smart Laptop Pro,Technology,East,1,1257.63,1131.87,0.1,106.9,Small Business
+ORD-2025962,2025-08-11,Gel Pens Pack (24ct),Office Supplies,West,1,17.81,16.03,0.1,5.52,Small Business
+ORD-2025963,2025-11-02,Gel Pens Pack (24ct),Office Supplies,West,3,17.26,44.01,0.15,13.72,Small Business
+ORD-2025964,2025-07-15,Adjustable LED Floor Lamp,Furniture,West,1,62.54,50.03,0.2,8.75,Consumer
+ORD-2025965,2025-01-12,Laser Distance Meter,Industrial,East,2,91.3,155.21,0.15,25.11,Corporate
+ORD-2025966,2025-10-20,Standing Desk Converter,Office Supplies,West,5,226.49,1075.83,0.05,165.34,Corporate
+ORD-2025967,2025-12-25,Mechanical Gaming Keyboard,Technology,West,4,95.37,381.48,0.0,114.44,Consumer
+ORD-2025968,2025-12-04,Wireless Noise-Cancelling Headphones,Technology,West,2,176.66,353.32,0.0,88.33,Consumer
+ORD-2025969,2025-10-22,Gel Pens Pack (24ct),Office Supplies,West,1,18.46,18.46,0.0,7.38,Consumer
+ORD-2025970,2025-09-17,Modular Bookshelf,Furniture,South,1,186.21,148.97,0.2,11.17,Corporate
+ORD-2025971,2025-12-04,Digital Caliper Stainless,Industrial,West,10,39.41,315.28,0.2,70.94,Small Business
+ORD-2025972,2025-04-18,USB-C Multiport Dock,Technology,West,1,73.5,69.83,0.05,17.71,Consumer
+ORD-2025973,2025-11-05,Dry Erase Whiteboard 36x24,Office Supplies,West,3,54.57,130.97,0.2,16.37,Corporate
+ORD-2025974,2025-05-14,Digital Caliper Stainless,Industrial,West,3,41.76,119.02,0.05,38.52,Small Business
+ORD-2025975,2025-04-15,USB-C Multiport Dock,Technology,East,1,74.04,59.23,0.2,9.18,Small Business
+ORD-2025976,2025-03-25,Digital Caliper Stainless,Industrial,East,1,40.41,40.41,0.0,14.14,Corporate
+ORD-2025977,2025-03-05,USB-C Multiport Dock,Technology,West,3,73.97,199.72,0.1,44.83,Corporate
+ORD-2025978,2025-03-16,Thermal Label Printer,Office Supplies,West,8,136.11,1088.88,0.0,217.78,Consumer
+ORD-2025979,2025-03-31,Filing Cabinet 3-Drawer,Furniture,West,1,130.94,117.85,0.1,14.67,Small Business
+ORD-2025980,2025-05-19,Smart Laptop Pro,Technology,West,3,1161.68,2788.03,0.2,69.7,Small Business
+ORD-2025981,2025-11-01,Industrial Grade Extension Cord,Industrial,West,3,35.75,101.89,0.05,27.89,Consumer
+ORD-2025982,2025-07-13,Executive Leather Chair,Furniture,East,3,459.31,1309.03,0.05,122.64,Corporate
+ORD-2025983,2025-07-01,Laser Distance Meter,Industrial,East,3,93.81,267.36,0.05,59.8,Corporate
+ORD-2025984,2025-11-22,Ultra HD 4K Monitor,Technology,West,3,335.18,955.26,0.05,165.91,Consumer
+ORD-2025985,2025-03-26,Smart Laptop Pro,Technology,East,4,1255.46,4268.56,0.15,263.65,Small Business
+ORD-2025986,2025-09-18,Heavy-Duty Paper Shredder,Office Supplies,West,5,86.68,368.39,0.15,22.75,Consumer
+ORD-2025987,2025-11-12,Gel Pens Pack (24ct),Office Supplies,North,3,17.54,42.1,0.2,11.58,Small Business
+ORD-2025988,2025-11-08,Ergonomic Vertical Mouse,Technology,West,5,45.11,214.27,0.05,69.36,Consumer
+ORD-2025989,2025-02-08,Solid Oak Conference Table,Furniture,East,2,839.23,1678.46,0.0,167.85,Corporate
+ORD-2025990,2025-12-14,Dry Erase Whiteboard 36x24,Office Supplies,West,2,53.71,107.42,0.0,26.86,Small Business
+ORD-2025991,2025-11-20,Digital Caliper Stainless,Industrial,East,2,41.57,70.67,0.15,18.5,Small Business
+ORD-2025992,2025-09-07,Ultra HD 4K Monitor,Technology,North,2,332.68,632.09,0.05,109.78,Corporate
+ORD-2025993,2025-07-01,Smart Laptop Pro,Technology,East,2,1158.45,2316.9,0.0,347.54,Corporate
+ORD-2025994,2025-01-04,Gel Pens Pack (24ct),Office Supplies,West,2,17.64,29.99,0.15,9.35,Consumer
+ORD-2025995,2025-10-02,Executive Leather Chair,Furniture,West,1,461.12,461.12,0.0,55.33,Corporate
+ORD-2025996,2025-12-30,Standing Desk Converter,Office Supplies,West,1,218.26,196.43,0.1,24.44,Consumer
+ORD-2025997,2025-03-24,Heavy-Duty Paper Shredder,Office Supplies,West,2,84.96,161.42,0.05,19.96,Corporate
+ORD-2025998,2025-07-24,Digital Caliper Stainless,Industrial,North,1,39.38,39.38,0.0,13.78,Small Business
+ORD-2025999,2025-05-02,USB-C Multiport Dock,Technology,East,1,74.85,67.36,0.1,15.12,Corporate
+ORD-2026000,2025-02-12,Digital Caliper Stainless,Industrial,East,1,38.46,34.61,0.1,10.19,Small Business
+ORD-2026001,2025-05-07,Digital Caliper Stainless,Industrial,West,3,40.01,114.03,0.05,36.91,Consumer
+ORD-2026002,2025-10-30,Ergonomic Office Chair,Office Supplies,West,1,325.2,308.94,0.05,59.84,Corporate
+ORD-2026003,2025-01-10,Standing Desk Converter,Office Supplies,West,2,224.4,426.36,0.05,65.52,Consumer
+ORD-2026004,2025-06-22,Industrial Grade Extension Cord,Industrial,North,1,34.19,30.77,0.1,7.52,Corporate
+ORD-2026005,2025-12-31,Digital Caliper Stainless,Industrial,East,1,40.64,36.58,0.1,10.77,Consumer
+ORD-2026006,2025-05-27,Laser Distance Meter,Industrial,East,2,88.51,177.02,0.0,44.26,Consumer
+ORD-2026007,2025-12-09,USB-C Multiport Dock,Technology,West,3,73.96,177.5,0.2,27.51,Small Business
+ORD-2026008,2025-11-06,Solid Oak Conference Table,Furniture,West,2,882.91,1677.53,0.05,123.61,Small Business
+ORD-2026009,2025-11-05,Smart Laptop Pro,Technology,West,2,1151.84,1842.94,0.2,46.07,Small Business
+ORD-2026010,2025-06-25,Adjustable LED Floor Lamp,Furniture,East,1,64.47,58.02,0.1,14.18,Small Business
+ORD-2026011,2025-06-27,Adjustable LED Floor Lamp,Furniture,East,2,67.8,108.48,0.2,18.98,Consumer
+ORD-2026012,2025-03-27,Solid Oak Conference Table,Furniture,West,2,875.02,1662.54,0.05,122.5,Small Business
+ORD-2026013,2025-07-23,Heavy Duty Storage Rack,Industrial,South,2,276.93,443.09,0.2,11.08,Corporate
+ORD-2026014,2025-04-16,Standing Desk Converter,Office Supplies,South,1,229.43,183.54,0.2,10.09,Corporate
+ORD-2026015,2025-09-15,Modular Bookshelf,Furniture,West,1,182.76,173.62,0.05,30.16,Consumer
+ORD-2026016,2025-10-01,Thermal Label Printer,Office Supplies,North,1,134.86,134.86,0.0,26.97,Small Business
+ORD-2026017,2025-05-08,Dry Erase Whiteboard 36x24,Office Supplies,West,1,55.58,50.02,0.1,9.73,Corporate
+ORD-2026018,2025-02-12,Solid Oak Conference Table,Furniture,East,10,860.71,8607.1,0.0,860.71,Corporate
+ORD-2026019,2025-04-23,Solid Oak Conference Table,Furniture,East,8,873.65,5591.36,0.2,-139.78,Consumer
+ORD-2026020,2025-12-19,Laser Distance Meter,Industrial,East,1,90.73,77.12,0.15,12.48,Consumer
+ORD-2026021,2025-08-17,Gel Pens Pack (24ct),Office Supplies,West,5,17.27,82.03,0.05,30.65,Corporate
+ORD-2026022,2025-04-05,Ergonomic Office Chair,Office Supplies,East,1,304.11,288.9,0.05,55.96,Corporate
+ORD-2026023,2025-12-18,Standing Desk Converter,Office Supplies,West,1,229.0,194.65,0.15,17.86,Consumer
+ORD-2026024,2025-09-27,Gel Pens Pack (24ct),Office Supplies,North,1,18.59,18.59,0.0,7.44,Consumer
+ORD-2026025,2025-05-08,Ultra HD 4K Monitor,Technology,South,4,332.83,1331.32,0.0,266.26,Small Business
+ORD-2026026,2025-06-23,Wireless Noise-Cancelling Headphones,Technology,South,2,173.94,313.09,0.1,60.88,Corporate
+ORD-2026027,2025-03-21,Standing Desk Converter,Office Supplies,East,4,211.26,760.54,0.1,94.65,Consumer
+ORD-2026028,2025-09-19,Digital Caliper Stainless,Industrial,East,2,38.59,69.46,0.1,20.45,Consumer
+ORD-2026029,2025-12-17,Heavy Duty Storage Rack,Industrial,West,1,268.85,241.97,0.1,22.85,Corporate
+ORD-2026030,2025-02-09,Executive Leather Chair,Furniture,East,5,454.7,2159.82,0.05,202.34,Corporate
+ORD-2026031,2025-09-29,Filing Cabinet 3-Drawer,Furniture,East,3,127.42,344.03,0.1,42.81,Corporate
+ORD-2026032,2025-02-23,Adjustable LED Floor Lamp,Furniture,East,3,62.25,186.75,0.0,56.02,Consumer
+ORD-2026033,2025-12-02,Thermal Label Printer,Office Supplies,West,3,144.0,367.2,0.15,41.04,Consumer
+ORD-2026034,2025-02-27,Laser Distance Meter,Industrial,West,10,87.14,740.69,0.15,119.82,Corporate
+ORD-2026035,2025-06-13,Industrial Grade Extension Cord,Industrial,West,4,34.42,130.8,0.05,35.8,Corporate
+ORD-2026036,2025-08-03,Industrial Grade Extension Cord,Industrial,West,2,34.73,55.57,0.2,9.72,Small Business
+ORD-2026037,2025-04-23,Wireless Noise-Cancelling Headphones,Technology,West,10,171.31,1370.48,0.2,171.31,Corporate
+ORD-2026038,2025-03-10,Smart Laptop Pro,Technology,West,4,1233.44,4687.07,0.05,579.72,Corporate
+ORD-2026039,2025-08-24,Dry Erase Whiteboard 36x24,Office Supplies,West,4,52.56,199.73,0.05,44.68,Consumer
+ORD-2026040,2025-12-23,Heavy-Duty Paper Shredder,Office Supplies,North,1,81.65,65.32,0.2,1.63,Consumer
+ORD-2026041,2025-09-02,Standing Desk Converter,Office Supplies,West,1,210.7,168.56,0.2,9.27,Corporate
+ORD-2026042,2025-03-18,Heavy-Duty Paper Shredder,Office Supplies,South,1,84.25,75.83,0.1,7.16,Corporate
+ORD-2026043,2025-11-27,Ultra HD 4K Monitor,Technology,West,5,333.62,1584.69,0.05,275.24,Small Business
+ORD-2026044,2025-03-24,Mechanical Gaming Keyboard,Technology,West,2,98.13,157.01,0.2,27.48,Small Business
+ORD-2026045,2025-06-06,Heavy-Duty Paper Shredder,Office Supplies,West,1,83.96,79.76,0.05,9.87,Small Business
+ORD-2026046,2025-04-19,Heavy Duty Storage Rack,Industrial,West,4,293.33,938.66,0.2,23.47,Consumer
+ORD-2026047,2025-12-21,Industrial Grade Extension Cord,Industrial,East,2,33.44,60.19,0.1,14.71,Small Business
+ORD-2026048,2025-08-06,Thermal Label Printer,Office Supplies,West,2,143.9,259.02,0.1,37.41,Consumer
+ORD-2026049,2025-05-03,Solid Oak Conference Table,Furniture,West,2,871.8,1569.24,0.1,69.74,Consumer
+ORD-2026050,2025-10-10,Gel Pens Pack (24ct),Office Supplies,West,1,18.13,18.13,0.0,7.25,Small Business
+ORD-2026051,2025-09-05,Smart Laptop Pro,Technology,West,1,1257.66,1131.89,0.1,106.9,Corporate
+ORD-2026052,2025-09-14,Thermal Label Printer,Office Supplies,West,3,134.36,342.62,0.15,38.29,Small Business
+ORD-2026053,2025-09-15,Ergonomic Vertical Mouse,Technology,West,4,44.9,179.6,0.0,62.86,Corporate
+ORD-2026054,2025-03-24,Gel Pens Pack (24ct),Office Supplies,West,3,18.82,53.64,0.05,20.04,Consumer
+ORD-2026055,2025-12-15,Gel Pens Pack (24ct),Office Supplies,South,10,18.2,145.6,0.2,40.04,Corporate
+ORD-2026056,2025-08-18,Thermal Label Printer,Office Supplies,West,4,139.03,472.7,0.15,52.83,Consumer
+ORD-2026057,2025-04-17,Wireless Noise-Cancelling Headphones,Technology,West,1,184.79,166.31,0.1,32.34,Small Business
+ORD-2026058,2025-02-14,Heavy Duty Storage Rack,Industrial,West,5,270.52,1217.34,0.1,114.97,Small Business
+ORD-2026059,2025-07-06,Executive Leather Chair,Furniture,West,3,439.11,1119.73,0.15,35.57,Corporate
+ORD-2026060,2025-08-15,Standing Desk Converter,Office Supplies,West,4,217.82,697.02,0.2,38.34,Small Business
+ORD-2026061,2025-03-08,Laser Distance Meter,Industrial,West,3,90.05,243.13,0.1,47.27,Small Business
+ORD-2026062,2025-01-22,USB-C Multiport Dock,Technology,South,1,72.04,61.23,0.15,11.74,Consumer
+ORD-2026063,2025-10-19,Heavy Duty Storage Rack,Industrial,West,2,268.62,456.65,0.15,28.2,Corporate
+ORD-2026064,2025-11-25,Heavy Duty Storage Rack,Industrial,West,1,292.87,248.94,0.15,15.38,Corporate
+ORD-2026065,2025-04-13,Laser Distance Meter,Industrial,West,10,89.88,763.98,0.15,123.59,Consumer
+ORD-2026066,2025-05-23,Heavy Duty Storage Rack,Industrial,East,1,281.91,225.53,0.2,5.64,Corporate
+ORD-2026067,2025-02-01,Adjustable LED Floor Lamp,Furniture,West,1,61.9,52.61,0.15,11.14,Corporate
+ORD-2026068,2025-05-10,Standing Desk Converter,Office Supplies,West,2,215.56,366.45,0.15,33.63,Corporate
+ORD-2026069,2025-09-26,Gel Pens Pack (24ct),Office Supplies,West,1,18.71,15.9,0.15,4.96,Corporate
+ORD-2026070,2025-06-02,Ergonomic Office Chair,Office Supplies,East,2,318.8,541.96,0.15,71.41,Corporate
+ORD-2026071,2025-12-21,Heavy Duty Storage Rack,Industrial,West,3,283.26,764.8,0.1,72.23,Small Business
+ORD-2026072,2025-06-12,Wireless Noise-Cancelling Headphones,Technology,West,1,185.26,157.47,0.15,25.47,Corporate
+ORD-2026073,2025-09-24,Mechanical Gaming Keyboard,Technology,South,2,90.6,172.14,0.05,47.11,Corporate
+ORD-2026074,2025-12-23,Dry Erase Whiteboard 36x24,Office Supplies,West,1,53.3,42.64,0.2,5.33,Consumer
+ORD-2026075,2025-07-09,Executive Leather Chair,Furniture,East,4,458.97,1560.5,0.15,49.57,Corporate
+ORD-2026076,2025-07-30,Modular Bookshelf,Furniture,West,1,183.84,156.26,0.15,17.46,Corporate
+ORD-2026077,2025-04-01,Dry Erase Whiteboard 36x24,Office Supplies,West,4,56.04,190.54,0.15,30.82,Small Business
+ORD-2026078,2025-05-26,Smart Laptop Pro,Technology,West,1,1251.9,1251.9,0.0,187.78,Corporate
+ORD-2026079,2025-11-16,USB-C Multiport Dock,Technology,West,3,77.64,221.27,0.05,56.13,Consumer
+ORD-2026080,2025-08-21,Heavy Duty Storage Rack,Industrial,South,2,288.23,489.99,0.15,30.26,Corporate
+ORD-2026081,2025-11-27,Heavy Duty Storage Rack,Industrial,East,1,284.44,256.0,0.1,24.18,Corporate
+ORD-2026082,2025-12-11,Standing Desk Converter,Office Supplies,West,1,226.39,181.11,0.2,9.96,Small Business
+ORD-2026083,2025-11-04,Modular Bookshelf,Furniture,South,1,199.0,189.05,0.05,32.84,Small Business
+ORD-2026084,2025-11-26,Heavy Duty Storage Rack,Industrial,West,3,293.37,836.1,0.05,103.41,Corporate
+ORD-2026085,2025-06-12,Heavy-Duty Paper Shredder,Office Supplies,West,4,85.04,272.13,0.2,6.8,Corporate
+ORD-2026086,2025-11-18,Filing Cabinet 3-Drawer,Furniture,East,1,129.19,103.35,0.2,5.68,Consumer
+ORD-2026087,2025-01-15,Ergonomic Vertical Mouse,Technology,West,3,47.18,127.39,0.1,37.51,Consumer
+ORD-2026088,2025-05-03,Thermal Label Printer,Office Supplies,East,4,144.0,518.4,0.1,74.88,Small Business
+ORD-2026089,2025-01-27,Executive Leather Chair,Furniture,South,2,432.15,734.65,0.15,23.34,Small Business
+ORD-2026090,2025-03-04,Wireless Noise-Cancelling Headphones,Technology,West,1,172.39,155.15,0.1,30.17,Consumer
+ORD-2026091,2025-07-20,Mechanical Gaming Keyboard,Technology,North,3,92.25,235.24,0.15,49.82,Corporate
+ORD-2026092,2025-06-10,Digital Caliper Stainless,Industrial,West,5,40.64,162.56,0.2,36.58,Consumer
+ORD-2026093,2025-03-02,Modular Bookshelf,Furniture,West,1,190.41,171.37,0.1,24.75,Consumer
+ORD-2026094,2025-04-09,Ergonomic Vertical Mouse,Technology,North,1,44.39,42.17,0.05,13.65,Consumer
+ORD-2026095,2025-06-17,Ergonomic Office Chair,Office Supplies,North,1,309.43,309.43,0.0,68.07,Corporate
+ORD-2026096,2025-12-29,Adjustable LED Floor Lamp,Furniture,West,5,63.38,301.06,0.05,82.4,Small Business
+ORD-2026097,2025-05-24,Heavy Duty Storage Rack,Industrial,West,1,286.22,243.29,0.15,15.03,Corporate
+ORD-2026098,2025-08-05,Modular Bookshelf,Furniture,North,2,187.61,375.22,0.0,75.04,Corporate
+ORD-2026099,2025-03-27,Ergonomic Vertical Mouse,Technology,East,4,45.65,146.08,0.2,32.87,Corporate
+ORD-2026100,2025-07-23,Smart Laptop Pro,Technology,South,1,1169.44,1110.97,0.05,137.41,Small Business
+ORD-2026101,2025-07-10,Solid Oak Conference Table,Furniture,West,1,808.43,727.59,0.1,32.34,Consumer
+ORD-2026102,2025-08-27,Solid Oak Conference Table,Furniture,West,3,852.32,2556.96,0.0,255.7,Small Business
+ORD-2026103,2025-05-23,Ergonomic Vertical Mouse,Technology,West,4,43.64,174.56,0.0,61.1,Corporate
+ORD-2026104,2025-09-13,Ultra HD 4K Monitor,Technology,West,2,353.55,565.68,0.2,42.43,Corporate
+ORD-2026105,2025-05-02,Ultra HD 4K Monitor,Technology,North,10,364.41,3279.69,0.1,473.73,Consumer
+ORD-2026106,2025-07-26,Ergonomic Vertical Mouse,Technology,West,1,44.86,38.13,0.15,9.98,Small Business
+ORD-2026107,2025-06-04,Modular Bookshelf,Furniture,East,1,192.13,163.31,0.15,18.25,Corporate
+ORD-2026108,2025-12-23,Industrial Grade Extension Cord,Industrial,North,1,34.03,34.03,0.0,10.21,Consumer
+ORD-2026109,2025-02-23,Adjustable LED Floor Lamp,Furniture,West,1,67.61,60.85,0.1,14.87,Small Business
+ORD-2026110,2025-01-03,Ultra HD 4K Monitor,Technology,West,5,335.13,1508.09,0.1,217.84,Small Business
+ORD-2026111,2025-11-10,Laser Distance Meter,Industrial,South,1,88.37,83.95,0.05,18.78,Small Business
+ORD-2026112,2025-07-31,Heavy Duty Storage Rack,Industrial,South,8,275.01,1870.07,0.15,115.5,Consumer
+ORD-2026113,2025-02-17,Modular Bookshelf,Furniture,West,4,185.11,703.42,0.05,122.17,Small Business
+ORD-2026114,2025-02-09,Mechanical Gaming Keyboard,Technology,West,3,94.7,241.49,0.15,51.14,Consumer
+ORD-2026115,2025-09-07,Ultra HD 4K Monitor,Technology,South,2,343.47,618.25,0.1,89.3,Small Business
+ORD-2026116,2025-08-21,Dry Erase Whiteboard 36x24,Office Supplies,East,2,57.61,92.18,0.2,11.52,Small Business
+ORD-2026117,2025-04-14,Digital Caliper Stainless,Industrial,West,1,39.23,31.38,0.2,7.06,Small Business
+ORD-2026118,2025-02-22,Heavy-Duty Paper Shredder,Office Supplies,East,5,82.34,411.7,0.0,61.75,Corporate
+ORD-2026119,2025-12-05,Laser Distance Meter,Industrial,West,2,88.69,168.51,0.05,37.69,Consumer
+ORD-2026120,2025-07-23,Laser Distance Meter,Industrial,North,1,88.94,75.6,0.15,12.23,Consumer
+ORD-2026121,2025-05-31,Heavy-Duty Paper Shredder,Office Supplies,South,2,84.44,168.88,0.0,25.33,Small Business
+ORD-2026122,2025-05-08,Wireless Noise-Cancelling Headphones,Technology,West,1,175.79,175.79,0.0,43.95,Small Business
+ORD-2026123,2025-02-21,Solid Oak Conference Table,Furniture,West,1,869.88,782.89,0.1,34.8,Corporate
+ORD-2026124,2025-04-16,Ergonomic Office Chair,Office Supplies,East,1,294.6,279.87,0.05,54.21,Small Business
+ORD-2026125,2025-12-25,Laser Distance Meter,Industrial,West,3,87.0,234.9,0.1,45.67,Corporate
+ORD-2026126,2025-03-14,USB-C Multiport Dock,Technology,East,8,77.86,591.74,0.05,150.12,Small Business
+ORD-2026127,2025-01-05,Adjustable LED Floor Lamp,Furniture,East,1,67.07,53.66,0.2,9.39,Small Business
+ORD-2026128,2025-05-29,Dry Erase Whiteboard 36x24,Office Supplies,South,1,56.67,51.0,0.1,9.92,Corporate
+ORD-2026129,2025-09-09,Filing Cabinet 3-Drawer,Furniture,East,2,134.26,241.67,0.1,30.07,Small Business
+ORD-2026130,2025-06-20,Heavy Duty Storage Rack,Industrial,East,1,293.4,278.73,0.05,34.47,Small Business
+ORD-2026131,2025-03-14,Adjustable LED Floor Lamp,Furniture,West,3,68.08,183.82,0.1,44.93,Consumer
+ORD-2026132,2025-02-15,Heavy-Duty Paper Shredder,Office Supplies,North,3,88.39,225.39,0.15,13.92,Small Business
+ORD-2026133,2025-03-31,Modular Bookshelf,Furniture,West,2,199.38,358.88,0.1,51.84,Consumer
+ORD-2026134,2025-01-22,Filing Cabinet 3-Drawer,Furniture,North,8,133.8,963.36,0.1,119.88,Consumer
+ORD-2026135,2025-01-05,Digital Caliper Stainless,Industrial,West,1,40.23,38.22,0.05,12.37,Corporate
+ORD-2026136,2025-09-07,Executive Leather Chair,Furniture,West,1,440.24,352.19,0.2,-1.76,Consumer
+ORD-2026137,2025-01-28,Laser Distance Meter,Industrial,North,1,87.76,78.98,0.1,15.36,Corporate
+ORD-2026138,2025-09-15,Standing Desk Converter,Office Supplies,West,3,218.51,655.53,0.0,118.0,Corporate
+ORD-2026139,2025-04-23,Mechanical Gaming Keyboard,Technology,West,3,93.92,239.5,0.15,50.72,Consumer
+ORD-2026140,2025-05-14,Filing Cabinet 3-Drawer,Furniture,West,2,134.89,215.82,0.2,11.87,Consumer
+ORD-2026141,2025-12-16,Thermal Label Printer,Office Supplies,East,1,137.16,116.59,0.15,13.03,Small Business
+ORD-2026142,2025-04-04,Industrial Grade Extension Cord,Industrial,West,2,34.35,61.83,0.1,15.11,Corporate
+ORD-2026143,2025-07-01,Industrial Grade Extension Cord,Industrial,West,5,33.34,141.7,0.15,30.01,Consumer
+ORD-2026144,2025-03-13,Solid Oak Conference Table,Furniture,West,2,855.57,1540.03,0.1,68.45,Consumer
+ORD-2026145,2025-07-21,Heavy-Duty Paper Shredder,Office Supplies,North,2,87.88,175.76,0.0,26.36,Consumer
+ORD-2026146,2025-05-19,Ultra HD 4K Monitor,Technology,North,3,362.75,1088.25,0.0,217.65,Small Business
+ORD-2026147,2025-10-27,USB-C Multiport Dock,Technology,South,8,72.27,549.25,0.05,139.34,Corporate
+ORD-2026148,2025-11-18,Executive Leather Chair,Furniture,East,1,434.39,434.39,0.0,52.13,Small Business
+ORD-2026149,2025-02-19,Ergonomic Office Chair,Office Supplies,North,2,296.23,592.46,0.0,130.34,Corporate
+ORD-2026150,2025-07-27,Digital Caliper Stainless,Industrial,South,4,40.73,130.34,0.2,29.33,Consumer
+ORD-2026151,2025-08-10,Gel Pens Pack (24ct),Office Supplies,West,4,18.28,69.46,0.05,25.96,Small Business
+ORD-2026152,2025-12-25,Heavy-Duty Paper Shredder,Office Supplies,West,3,88.9,226.7,0.15,14.0,Corporate
+ORD-2026153,2025-12-08,Adjustable LED Floor Lamp,Furniture,East,2,64.51,129.02,0.0,38.71,Corporate
+ORD-2026154,2025-08-23,Ergonomic Vertical Mouse,Technology,West,1,45.65,36.52,0.2,8.22,Corporate
+ORD-2026155,2025-01-22,Solid Oak Conference Table,Furniture,West,1,820.96,656.77,0.2,-16.42,Small Business
+ORD-2026156,2025-04-18,Filing Cabinet 3-Drawer,Furniture,East,1,132.03,105.62,0.2,5.81,Corporate
+ORD-2026157,2025-08-24,Thermal Label Printer,Office Supplies,East,4,139.77,475.22,0.15,53.11,Small Business
+ORD-2026158,2025-12-04,Dry Erase Whiteboard 36x24,Office Supplies,West,1,57.5,51.75,0.1,10.06,Small Business
+ORD-2026159,2025-11-13,Heavy Duty Storage Rack,Industrial,West,3,272.49,817.47,0.0,122.62,Corporate
+ORD-2026160,2025-12-14,Laser Distance Meter,Industrial,South,3,87.63,249.75,0.05,55.87,Small Business
+ORD-2026161,2025-07-16,Heavy Duty Storage Rack,Industrial,East,4,268.04,964.94,0.1,91.13,Small Business
+ORD-2026162,2025-11-20,Wireless Noise-Cancelling Headphones,Technology,West,2,173.4,277.44,0.2,34.68,Small Business
+ORD-2026163,2025-04-13,Thermal Label Printer,Office Supplies,East,1,135.27,108.22,0.2,8.12,Consumer
+ORD-2026164,2025-02-14,USB-C Multiport Dock,Technology,West,4,77.95,280.62,0.1,62.98,Corporate
+ORD-2026165,2025-10-18,Ultra HD 4K Monitor,Technology,South,3,350.99,1000.32,0.05,173.74,Consumer
+ORD-2026166,2025-10-20,Laser Distance Meter,Industrial,East,1,86.1,73.18,0.15,11.84,Small Business
+ORD-2026167,2025-07-12,Ergonomic Vertical Mouse,Technology,West,2,43.2,73.44,0.15,19.22,Consumer
+ORD-2026168,2025-01-27,Executive Leather Chair,Furniture,East,4,445.07,1602.25,0.1,103.26,Consumer
+ORD-2026169,2025-03-22,Executive Leather Chair,Furniture,South,2,445.46,890.92,0.0,106.91,Small Business
+ORD-2026170,2025-12-24,Ergonomic Vertical Mouse,Technology,West,3,42.9,109.39,0.15,28.63,Corporate
+ORD-2026171,2025-04-13,Executive Leather Chair,Furniture,West,4,442.33,1769.32,0.0,212.32,Consumer
+ORD-2026172,2025-09-10,Ergonomic Vertical Mouse,Technology,West,1,44.62,35.7,0.2,8.03,Consumer
+ORD-2026173,2025-10-10,Digital Caliper Stainless,Industrial,East,2,38.9,70.02,0.1,20.62,Corporate
+ORD-2026174,2025-09-02,Solid Oak Conference Table,Furniture,East,4,824.17,2637.34,0.2,-65.93,Corporate
+ORD-2026175,2025-12-16,Ergonomic Vertical Mouse,Technology,West,3,45.88,116.99,0.15,30.62,Small Business
+ORD-2026176,2025-08-07,Standing Desk Converter,Office Supplies,West,3,228.88,617.98,0.1,76.9,Consumer
+ORD-2026177,2025-06-25,Heavy Duty Storage Rack,Industrial,West,2,272.36,435.78,0.2,10.89,Small Business
+ORD-2026178,2025-01-24,USB-C Multiport Dock,Technology,East,1,72.6,72.6,0.0,20.33,Corporate
+ORD-2026179,2025-06-29,Thermal Label Printer,Office Supplies,South,1,134.08,120.67,0.1,17.43,Small Business
+ORD-2026180,2025-04-16,Laser Distance Meter,Industrial,South,2,90.46,171.87,0.05,38.44,Small Business
+ORD-2026181,2025-05-17,Filing Cabinet 3-Drawer,Furniture,West,5,132.67,530.68,0.2,29.19,Corporate
+ORD-2026182,2025-05-24,Wireless Noise-Cancelling Headphones,Technology,South,1,180.95,180.95,0.0,45.24,Corporate
+ORD-2026183,2025-03-14,Wireless Noise-Cancelling Headphones,Technology,West,1,179.98,179.98,0.0,44.99,Corporate
+ORD-2026184,2025-05-23,Laser Distance Meter,Industrial,West,4,88.96,355.84,0.0,88.96,Corporate
+ORD-2026185,2025-07-16,Heavy Duty Storage Rack,Industrial,West,1,278.07,278.07,0.0,41.71,Small Business
+ORD-2026186,2025-06-06,Ergonomic Vertical Mouse,Technology,East,3,44.26,119.5,0.1,35.19,Small Business
+ORD-2026187,2025-04-21,Ultra HD 4K Monitor,Technology,West,5,358.83,1794.15,0.0,358.83,Small Business
+ORD-2026188,2025-07-18,Filing Cabinet 3-Drawer,Furniture,West,3,126.88,323.54,0.15,29.69,Corporate
+ORD-2026189,2025-05-02,Standing Desk Converter,Office Supplies,East,1,214.5,171.6,0.2,9.44,Corporate
+ORD-2026190,2025-06-22,Heavy Duty Storage Rack,Industrial,West,3,287.91,690.98,0.2,17.27,Consumer
+ORD-2026191,2025-03-05,Filing Cabinet 3-Drawer,Furniture,East,2,123.72,247.44,0.0,44.54,Corporate
+ORD-2026192,2025-01-19,Adjustable LED Floor Lamp,Furniture,South,1,67.58,54.06,0.2,9.46,Corporate
+ORD-2026193,2025-02-02,Digital Caliper Stainless,Industrial,East,4,38.51,146.34,0.05,47.37,Consumer
+ORD-2026194,2025-11-13,Wireless Noise-Cancelling Headphones,Technology,East,2,178.93,322.07,0.1,62.62,Consumer
+ORD-2026195,2025-10-11,Standing Desk Converter,Office Supplies,East,4,227.69,728.61,0.2,40.07,Small Business
+ORD-2026196,2025-01-23,Thermal Label Printer,Office Supplies,West,2,140.15,266.29,0.05,46.25,Consumer
+ORD-2026197,2025-06-16,Adjustable LED Floor Lamp,Furniture,North,1,63.87,57.48,0.1,14.05,Corporate
+ORD-2026198,2025-07-28,Adjustable LED Floor Lamp,Furniture,East,1,67.8,54.24,0.2,9.49,Consumer
+ORD-2026199,2025-02-24,Thermal Label Printer,Office Supplies,East,2,142.2,270.18,0.05,46.93,Corporate
+ORD-2026200,2025-11-29,Smart Laptop Pro,Technology,South,3,1228.07,2947.37,0.2,73.68,Small Business
